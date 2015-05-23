@@ -22,21 +22,16 @@ Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonab
 * Item
 * Item
 
-- Item
-- Item
-- Item
-
 **Everyone _must_ attend the meeting at 5 o'clock today.**
-
 
 *This text will be italic*
 **This text will be bold**
 
 > Pardon my french
 
-# The largest heading (an <h1> tag)
-## The second largest heading (an <h2> tag)
+# The largest heading
+## The second largest heading 
 …
-###### The 6th largest heading (an <h6> tag)
+###### The 6th largest heading 
 
 [Visit GitHub!](www.github.com).
