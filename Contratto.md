@@ -1,7 +1,8 @@
 # Contratto di fornitura web
 
 ```
-Questo contratto regola il rapporto fra il Fornitore e il Cliente, definiti nella "Parte 1 - Generalità delle Parti, secondo le presenti "Condizioni Generali di Contratto" contenute nella Parte 2
+Questo contratto regola il rapporto fra il Fornitore e il Cliente, definiti nella "Parte 1 - Generalità delle 
+Parti, secondo le presenti "Condizioni Generali di Contratto" contenute nella Parte 2
 ```
 ## Parte 1 - Generalità delle Parti
 
