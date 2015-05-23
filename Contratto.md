@@ -2,10 +2,21 @@
 
 ```
 Questo contratto regola il rapporto fra il Fornitore e il Cliente, definiti nella "Parte 1 - Generalità delle 
-Parti, secondo le presenti "Condizioni Generali di Contratto" contenute nella Parte 2
+Parti, secondo le presenti "Condizioni Generali di Contratto" contenute nella Parte 2.
 ```
 ## Parte 1 - Generalità delle Parti
 
+Dati identificativi del “Cliente”
+Ragione sociale / nome: ________________________________________________________________________________
+Partita I.V.A. / Cod.Fisc.: ________________________________________________________________________________
+Indirizzo:  ________________________    Cap: ________    Comune:  ________________________    Prov:  ___________
+Telefono:  ________________________    Fax: ________________________   Email: _______________________________
+
+Dati identificativi del “Fornitore”
+Ragione sociale / nome: ________________________________________________________________________________
+Partita I.V.A. / Cod.Fisc.: ________________________________________________________________________________
+Indirizzo:  ________________________    Cap: ________    Comune:  ________________________    Prov:  ___________
+Telefono:  ________________________    Fax: ________________________   Email: _______________________________
 
 Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
 
