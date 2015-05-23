@@ -1,18 +1,13 @@
 # Contratto di fornitura web
 
-```
-Questo contratto regola il rapporto fra il Fornitore e il Cliente, definiti nella "Parte 1 - Generalità delle 
-Parti, secondo le presenti "Condizioni Generali di Contratto" contenute nella Parte 2.
-```
 ## Parte 1 - Generalità delle Parti
 ```
-####Dati identificativi del “Cliente” 
+Dati identificativi del “Cliente” 
 Ragione sociale / nome: ____________________________________________________________________________
 Partita I.V.A. / Cod.Fisc.: ________________________________________________________________________
 Indirizzo: ________________________ Cap: ________ Comune: ________________________ Prov: ___________ 
 Telefono: ________________________ Fax: ________________________ Email: ____________________________
-
-####Dati identificativi del “Fornitore” 
+Dati identificativi del “Fornitore” 
 Ragione sociale / nome: ____________________________________________________________________________
 Partita I.V.A. / Cod.Fisc.: ________________________________________________________________________ 
 Indirizzo: ________________________ Cap: ________ Comune: ________________________ Prov: ___________ 
