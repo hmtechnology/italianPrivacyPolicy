@@ -2,7 +2,7 @@
 
 ## Parte I - Generalità delle Parti
 ```
-Dati identificativi del “Cliente” d
+Dati identificativi del “Cliente” 
 
 Ragione sociale / nome: __________________________________________________________
 Partita I.V.A. / Cod.Fisc.: ______________________________________________________
