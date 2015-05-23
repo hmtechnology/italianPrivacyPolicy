@@ -1,10 +1,10 @@
-# Contratto
+# Contratto di fornitura web
 
 ```
-x = 0
-x = 2 + 2
-what is x
+Questo contratto regola il rapporto fra il Fornitore e il Cliente, definiti nella "Parte 1 - Generalità delle Parti, secondo le presenti "Condizioni Generali di Contratto" contenute nella Parte 2
 ```
+## Parte 1 - Generalità delle Parti
+
 
 Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
 
@@ -29,9 +29,5 @@ Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonab
 
 > Pardon my french
 
-# The largest heading
-## The second largest heading 
-…
-###### The 6th largest heading 
 
 [Visit GitHub!](www.github.com).
