@@ -38,5 +38,9 @@ Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonab
 
 > Pardon my french
 
-
 [Visit GitHub!](www.github.com).
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
