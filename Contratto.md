@@ -1,6 +1,6 @@
 # Contratto di fornitura web
 
-## Parte 1 - Generalità delle Parti
+## Parte I - Generalità delle Parti
 ```
 Dati identificativi del “Cliente” 
 Ragione sociale / nome: ____________________________________________________________________________
@@ -15,6 +15,7 @@ Indirizzo: ________________________ Cap: ________ Comune: ______________________
 Telefono: ________________________ Fax: ________________________ Email: ____________________________
 ```
 
+## Parte II - Condizioni Generali di Contratto
 Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
 
 1. Item 1
