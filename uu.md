@@ -51,13 +51,27 @@ In particolare, i cookie tecnici utilizati da **udite.udite.it** sono:
 
 Questi cookie sono utilizzati al fine di raccogliere informazioni sull’**uso del Sito** da parte degli utenti in **forma anonima** quali: pagine visitate, tempo di permanenza, origini del traffico di provenienza, provenienza geografica, età, genere e interessi ai fini di campagne di marketing. Questi cookie sono inviati da domini di terze parti esterni al Sito.
 
-In particolare, i cookie analitici di terze parti utilizati da **udite.udite.it** sono: 
+In particolare, i cookie analitici di terze parti utilizati da **udite.udite.it** appartengono ai seguenti servizi: 
+**ShinyStat**
+*ShinyStat* è un sistema di rilevazione e statistiche rilasciato da [http://www.shinystat.com](http://www.shinystat.com/) che permette di monitorare gli accessi ai siti web. Il servizio *ShinyStat* acquisisce alcuni dati degli utenti (dati di navigazione) che non sono raccolte per essere associate a interessati identificati ma al solo fine di ricavare informazioni statistiche anonime sull'uso del sito e per controllarne il corretto funzionamento. Il servizio *ShinyStat* utilizza cookie di tipo analytics assimilati ai cookie tecnici in quanto vengono utilizzati in forma anonima e aggregata e non collezionano alcun dato personale in grado di identificare personalmente gli utenti.
+udite-udite.it non utilizza il servizio *ShinyStat* per la profilazione dell'utente in prima parte e non ha accordi con *ShinyStat* per profilare in prima parte.
 
-| Nome Cookie     | Dominio         | Scadenza        |
-| :-------------- | :-------------- | :-------------- |
-| PHPSESSID       | udite-udite.it  | session         |
-| col 2 is        | centered        |   $12           |
-| zebra stripes   | are neat        |    $1           |
+##### Link di riferimento
+* [Privacy Policy](http://www.shinystat.com/it/informativa_privacy_generale.html)
+* [Cookie Policy](http://www.shinystat.com/it/informativa_cookie_sito.html)
+* [Opt-Out](http://www.addthis.com/privacy/opt-out)
+* [Anonimizzazione IP ShinyStat](http://www.shinystat.com/it/anonimizzazione.html)
+
+**Google Analytics (anonimizzato)**
+*Google Analytics* è uno strumento che aiuta i proprietari di siti web a misurare le statistiche del sito web. 
+In particolare *Google Analytics* fornisce indicazioni su come gli utenti interagiscono con i contenuti del sito, con che frequenza gli utenti visitano ciascuna pagina del sito, per quanto tempo si trattengono e con quale frequenza generano una conversione. *Google Analyticsv utilizza principalmente cookie proprietari per generare i rapporti sulle interazioni dei visitatori con i siti web. Questi cookie vengono utilizzati per memorizzare informazioni che non consentono l'identificazione personale degli utenti. Inoltre, utilizzando il metodo di [mascheratura dell'indirizzo IP](https://support.google.com/analytics/answer/2905384?hl=it), le informazioni memorizzate nel cookie vengono ridotte a un numero identificativo casuale. Gli utenti dei siti web che non vogliono che i dati relativi alla loro visita vengano monitorati possono installare il [componente aggiuntivo del browser per la disattivazione di Google Analytics] (https://tools.google.com/dlpage/gaoptout). 
+udite-udite.it non utilizza il servizio *Google Analytics* per la profilazione dell'utente in prima parte e non ha accordi con *Google Analytics* per profilare in prima parte.
+
+##### Link di riferimento
+* [Protezione dei dati di Google Analytics](http://www.google.com/intl/it_ALL/analytics/learn/privacy.html)
+* [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+
+Gli utenti dei siti web che non vogliono che i dati relativi alla loro visita vengano monitorati tramite il codice JavaScript di Google Analytics possono installare il componente aggiuntivo del browser per la disattivazione di Google Analytics. 
 
 #### Cookie per integrare prodotti e funzioni di terze parti
 
