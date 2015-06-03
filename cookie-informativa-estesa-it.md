@@ -39,6 +39,7 @@ Questa tipologia di cookie permette il **corretto funzionamento di alcune sezion
 Questi cookie, inviati sempre dal nostro dominio, **sono necessari a visualizzare correttamente il sito** e in relazione ai servizi tecnici offerti, verranno quindi **sempre utilizzati e inviati**, a meno che l’utenza non modifichi le impostazioni nel proprio browser (inficiando così la visualizzazione delle pagine del sito). Per questo tipo di cookie non è richiesto il consenso da parte dell'utente.
 
 In particolare, i cookie tecnici utilizati da **[[URL SITO]]** sono: 
+
 **[[ELENCO COOKIE TECNICI]]**
 
 ### Cookie di Terze Parti 
@@ -48,6 +49,7 @@ In particolare, i cookie tecnici utilizati da **[[URL SITO]]** sono:
 Questi cookie sono utilizzati al fine di raccogliere informazioni sull’**uso del Sito** da parte degli utenti in **forma anonima** quali: pagine visitate, tempo di permanenza, origini del traffico di provenienza, provenienza geografica, età, genere e interessi ai fini di campagne di marketing. Questi cookie sono inviati da domini di terze parti esterni al Sito.
 
 In particolare, i cookie analitici di terze parti utilizati da **[[URL SITO]]** sono: 
+
 **[[ELENCO COOKIE ANALITICI TERZE PARTI]]**
 
 #### Cookie per integrare prodotti e funzioni di terze parti
@@ -55,15 +57,18 @@ In particolare, i cookie analitici di terze parti utilizati da **[[URL SITO]]** 
 Questa tipologia di cookie **integra funzionalità sviluppate da terzi** all’interno delle pagine del Sito come le icone e le preferenze espresse nei social network al fine di condivisione dei contenuti del sito o per l’uso di servizi software di terze parti (come i software per generare le mappe e ulteriori software che offrono servizi aggiuntivi). Questi cookie sono inviati da **domini di terze parti** e da **siti partner** che offrono le loro funzionalità tra le pagine del Sito.
 
 In particolare, i cookie funzionali di terze parti utilizati da **[[URL SITO]]** sono: 
+
 **[[ELENCO COOKIE FUNZIONALI TERZE PARTI]]**
 
 ### Cookie di profilazione
 
 Sono quei cookie necessari a creare profili utenti al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dall’utente all’interno delle pagine del Sito.  
  **[[URL SITO]]** **non utilizza cookie di profilazione diretta (di prime parti)**.
+ 
  **[[URL SITO]]** **utilizza esclusivamente cookie di profilazione indiretta (di terze parti)**.
 
  In particolare, i cookie di profilazione di terze parti utilizati da **[[URL SITO]]** sono: 
+ 
 **[[ELENCO COOKIE PROFILAZIONE TERZE PARTI]]**
 
 * * *
