@@ -103,7 +103,7 @@ udite-udite.it non utilizza il servizio *Google+ Platform* per la profilazione d
 
 ##### Link di riferimento
 * [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-* [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
+* [Cookie](https://www.google.it/intl/it/policies/technologies/cookies/)
 
 #####Youtube 
 *Youtube* è una è una piattaforma web, [http://www.youtube.com](http://www.youtube.com) che consente la condivisione e visualizzazione di video online. *Youtube* raccoglie, oltre ai dati forniti dall'utente, informazioni sui servizi utilizzati tra cui identificatori univoci dei dispositivi, informazioni sulla rete mobile, dati sulla posizione, e altro. *Youtube* utilizza cookie e identificatori anonimi quando l'utente interagisce con Youtube per migliorare la qualità generale dei servizi e l'esperienza degli utenti.  
@@ -111,6 +111,7 @@ udite-udite.it non utilizza il servizio *Youtube* per la profilazione dell'utent
 
 ##### Link di riferimento
 * [Privacy Policy](https://www.google.it/intl/it/policies/privacy/)
+* [Cookie](https://www.google.it/intl/it/policies/technologies/cookies/)
 
 ####AddThis
 *AddThis* è un sistema rilasciato da [http://www.addthis.com/](http://www.addthis.com/) che permette la facile condivisione dei contenuti di questo sito attraverso e-mail e i principali siti web di social network.
