@@ -111,8 +111,8 @@ udite-udite.it non utilizza il servizio *Youtube* per la profilazione dell'utent
 
 ##### Link di riferimento
 * [Privacy Policy](https://www.google.it/intl/it/policies/privacy/)
-* 
-#### AddThis
+
+####AddThis
 *AddThis* è un sistema rilasciato da [http://www.addthis.com/](http://www.addthis.com/) che permette la facile condivisione dei contenuti di questo sito attraverso e-mail e i principali siti web di social network.
 Il servizio *AddThis* può permettere agli amministratori di questo sito di mostrare automaticamente pulsanti di condivisione diversi a seconda delle preferenze sociali degli utenti o di consultare statistiche in forma aggregata sul numero e sui contenuti delle condivisioni effettuate dagli utenti.
 Il servizio *AddThis* attraverso l'uso dei propri cookie colleziona dati sulla navigazione degli utenti anche al di fuori di questo sito. 
