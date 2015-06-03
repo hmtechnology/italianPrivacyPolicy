@@ -52,7 +52,8 @@ In particolare, i cookie tecnici utilizati da **udite.udite.it** sono:
 Questi cookie sono utilizzati al fine di raccogliere informazioni sull’**uso del Sito** da parte degli utenti in **forma anonima** quali: pagine visitate, tempo di permanenza, origini del traffico di provenienza, provenienza geografica, età, genere e interessi ai fini di campagne di marketing. Questi cookie sono inviati da domini di terze parti esterni al Sito.
 
 In particolare, i cookie analitici di terze parti utilizati da **udite.udite.it** appartengono ai seguenti servizi: 
-**ShinyStat**
+
+#####ShinyStat
 *ShinyStat* è un sistema di rilevazione e statistiche rilasciato da [http://www.shinystat.com](http://www.shinystat.com/) che permette di monitorare gli accessi ai siti web. Il servizio *ShinyStat* acquisisce alcuni dati degli utenti (dati di navigazione) che non sono raccolte per essere associate a interessati identificati ma al solo fine di ricavare informazioni statistiche anonime sull'uso del sito e per controllarne il corretto funzionamento. Il servizio *ShinyStat* utilizza cookie di tipo analytics assimilati ai cookie tecnici in quanto vengono utilizzati in forma anonima e aggregata e non collezionano alcun dato personale in grado di identificare personalmente gli utenti.
 udite-udite.it non utilizza il servizio *ShinyStat* per la profilazione dell'utente in prima parte e non ha accordi con *ShinyStat* per profilare in prima parte.
 
