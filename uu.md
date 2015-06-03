@@ -260,8 +260,5 @@ Per eliminare i cookie dal browser Internet del proprio smartphone/tablet, è ne
 *   [Facebook](https://www.facebook.com/help/cookies?ref_type=sitefooter)
 *   [Twitter](https://support.twitter.com/articles/20170519-uso-dei-cookie-e-di-altre-tecnologie-simili-da-parte-di-twitter#)
 *   [YourOnlineChoices.eu](http://youronlinechoices.com/it/)
-* * *
 
-Questa pagina è visibile, mediante link in calce in tutte le pagine del Sito ai sensi dell’art. 122 secondo comma del D.lgs. 196/2003 e a seguito delle modalità semplificate per l’informativa e l’acquisizione del consenso per l’uso dei cookie pubblicata sulla Gazzetta Ufficiale n.126 del 3 giugno 2014 e relativo registro dei provvedimenti n.229 dell’8 maggio 2014.
-
-Inoltre puoi leggere la nostra informativa sulla privacy da qui [privacy](http://example.org/privacy)
+Inoltre puoi leggere la nostra informativa sulla [privacy](http://example.org/privacy)
