@@ -1,7 +1,7 @@
 #COOKIE POLICY
 *informativa sull'uso dei cookies*
 
-Con la presente pagina, redatta ai sensi degli **artt. 13 e 122 del D.Lgs. 196/2003 (“codice privacy”)**, a seguito del *Provvedimento del Garante Privacy dell'8 Maggio 2014* sull'individuazione delle modalità semplificate per l'informativa e l'acquisizione del consenso per l'uso dei cookie [[doc. web n. 3118884](http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/3118884)], pubblicato sulla *Gazzetta Ufficiale n. 126 del 3 giugno 2014* [[Gazzetta Ufficiale](http://www.gazzettaufficiale.it/eli/id/2014/06/03/14A04066/sg)], **[[NOME E COGNOME DEL RESPONSABILE]]**, titolare del trattamento dei dati personali, fornisce agli utenti del sito **[[NOME SITO]]**  un'informativa dettagliata sulla natura dei Cookie e sul loro utilizzo all'interno di questo sito.
+Con la presente pagina, redatta ai sensi degli **artt. 13 e 122 del D.Lgs. 196/2003 (“codice privacy”)**, a seguito del *Provvedimento del Garante Privacy dell'8 Maggio 2014* sull'individuazione delle modalità semplificate per l'informativa e l'acquisizione del consenso per l'uso dei cookie [[doc. web n. 3118884](http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/3118884)], pubblicato sulla *Gazzetta Ufficiale n. 126 del 3 giugno 2014* [[Gazzetta Ufficiale](http://www.gazzettaufficiale.it/eli/id/2014/06/03/14A04066/sg)], **Edward Communication*, titolare del trattamento dei dati personali, fornisce agli utenti del sito **udite.udite.it**  un'informativa dettagliata sulla natura dei Cookie e sul loro utilizzo all'interno di questo sito.
 
 ***
 
@@ -27,7 +27,7 @@ In sintesi i cookie permettono di:
 
 ## Tipologie di Cookie utilizzati
 
-**[[URL SITO]]** o il “**Sito**” utilizza i Cookie per rendere i propri servizi semplici e efficienti per l’utenza che visiona le pagine di **[[URL SITO]]**. A seguire i vari tipi di cookie utilizzati da **[[URL SITO]]** in funzione delle finalità d’uso.
+**udite.udite.it** o il “**Sito**” utilizza i Cookie per rendere i propri servizi semplici e efficienti per l’utenza che visiona le pagine di **udite.udite.it**. A seguire i vari tipi di cookie utilizzati da **udite.udite.it** in funzione delle finalità d’uso.
 
 ### Cookie Tecnici
 
@@ -38,9 +38,12 @@ Questa tipologia di cookie permette il **corretto funzionamento di alcune sezion
 
 Questi cookie, inviati sempre dal nostro dominio, **sono necessari a visualizzare correttamente il sito** e in relazione ai servizi tecnici offerti, verranno quindi **sempre utilizzati e inviati**, a meno che l’utenza non modifichi le impostazioni nel proprio browser (inficiando così la visualizzazione delle pagine del sito). Per questo tipo di cookie non è richiesto il consenso da parte dell'utente.
 
-In particolare, i cookie tecnici utilizati da **[[URL SITO]]** sono: 
+In particolare, i cookie tecnici utilizati da **udite.udite.it** sono: 
 
-**[[ELENCO COOKIE TECNICI]]**
+| Nome Cookie     | Dominio         | Scadenza        | Finalità        |
+| :-------------- | :-------------- | :-------------- | :-------------- |
+| PHPSESSID       | udite-udite.it  | session         | identifica la          |
+| i18next         | udite-udite.it  | session         | session         |
 
 ### Cookie di Terze Parti 
 
@@ -48,26 +51,30 @@ In particolare, i cookie tecnici utilizati da **[[URL SITO]]** sono:
 
 Questi cookie sono utilizzati al fine di raccogliere informazioni sull’**uso del Sito** da parte degli utenti in **forma anonima** quali: pagine visitate, tempo di permanenza, origini del traffico di provenienza, provenienza geografica, età, genere e interessi ai fini di campagne di marketing. Questi cookie sono inviati da domini di terze parti esterni al Sito.
 
-In particolare, i cookie analitici di terze parti utilizati da **[[URL SITO]]** sono: 
+In particolare, i cookie analitici di terze parti utilizati da **udite.udite.it** sono: 
 
-**[[ELENCO COOKIE ANALITICI TERZE PARTI]]**
+| Nome Cookie     | Dominio         | Scadenza        |
+| :-------------- | :-------------- | :-------------- |
+| PHPSESSID       | udite-udite.it  | session         |
+| col 2 is        | centered        |   $12           |
+| zebra stripes   | are neat        |    $1           |
 
 #### Cookie per integrare prodotti e funzioni di terze parti
 
 Questa tipologia di cookie **integra funzionalità sviluppate da terzi** all’interno delle pagine del Sito come le icone e le preferenze espresse nei social network al fine di condivisione dei contenuti del sito o per l’uso di servizi software di terze parti (come i software per generare le mappe e ulteriori software che offrono servizi aggiuntivi). Questi cookie sono inviati da **domini di terze parti** e da **siti partner** che offrono le loro funzionalità tra le pagine del Sito.
 
-In particolare, i cookie funzionali di terze parti utilizati da **[[URL SITO]]** sono: 
+In particolare, i cookie funzionali di terze parti utilizati da **udite.udite.it** sono: 
 
 **[[ELENCO COOKIE FUNZIONALI TERZE PARTI]]**
 
 ### Cookie di profilazione
 
 Sono quei cookie necessari a creare profili utenti al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dall’utente all’interno delle pagine del Sito.  
- **[[URL SITO]]** **non utilizza cookie di profilazione diretta (di prime parti)**.
+ **udite.udite.it** **non utilizza cookie di profilazione diretta (di prime parti)**.
  
- **[[URL SITO]]** **utilizza esclusivamente cookie di profilazione indiretta (di terze parti)**.
+ **udite.udite.it** **utilizza esclusivamente cookie di profilazione indiretta (di terze parti)**.
 
- In particolare, i cookie di profilazione di terze parti utilizati da **[[URL SITO]]** sono: 
+ In particolare, i cookie di profilazione di terze parti utilizati da **udite.udite.it** sono: 
  
 **[[ELENCO COOKIE PROFILAZIONE TERZE PARTI]]**
 
@@ -75,11 +82,11 @@ Sono quei cookie necessari a creare profili utenti al fine di inviare messaggi p
 
 ## Uso dei cookie e consenso
 
-**[[URL SITO]]**, secondo la normativa vigente, non è tenuto a chiedere consenso per i **cookie tecnici** e di **analytics** (se anonimizzati), in quanto necessari a fornire i servizi richiesti e a raccogliere i dati dei navigatori in forma anonima.
+**udite.udite.it**, secondo la normativa vigente, non è tenuto a chiedere consenso per i **cookie tecnici** e di **analytics** (se anonimizzati), in quanto necessari a fornire i servizi richiesti e a raccogliere i dati dei navigatori in forma anonima.
 
 Per tutte le altre tipologie di cookie il consenso può essere espresso dall’Utente con una o più di una delle seguenti modalità:
 
-*   **Mediante accettazione dell'informativa breve** (clic su tasto OK / scroll sulla pagina)  presente al primo accesso dell'utente, da qualsiasi pagina di atterraggio, collocato in modo visibile al **basso/alto/centro** della pagina web.
+*   **Mediante accettazione dell'informativa breve** (clic su tasto OK)  presente al primo accesso dell'utente, da qualsiasi pagina di atterraggio, collocato in modo visibile in **basso** alla pagina web.
 *   **Mediante specifiche configurazioni del browser** utilizzato o dei relativi programmi informatici utilizzati per navigare le pagine che compongono il Sito.
 *   **Mediante modifica delle impostazioni** nell’uso dei servizi di terze parti
 
@@ -87,7 +94,7 @@ Il diniego del consenso potrebbe impedire all’utente di utilizzare o visualizz
 
 **Siti Web e servizi di terze parti**
 
-**[[URL SITO]]** potrebbe contenere collegamenti ad altri siti Web che dispongono di una propria informativa sulla privacy che può essere diverse da quella adottata da **[[URL SITO]]** e che che quindi **non risponde** di questi siti.
+**udite.udite.it** potrebbe contenere collegamenti ad altri siti Web che dispongono di una propria informativa sulla privacy che può essere diverse da quella adottata da **udite.udite.it** e quindi **non risponde** per questi siti.
 
 * * *
 
