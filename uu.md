@@ -101,7 +101,7 @@ udite-udite.it non utilizza il servizio *Twitter Button* per la profilazione del
 *Google+ Platform* è una suite di widget rilasciata da [http://www.google.com](http://www.google.com) che integrano contenuti e pulsanti da Google sul sito per incoraggiare la condivisione tra gli utenti. *Google+ Platform* utilizza alcune informazioni relative al browser che permette ai i pulsanti e ai widget di funzionare correttamente. *Google+ Platform* utilizza cookie per finalità di misurazione e di personalizzazione del contenuto. 
 udite-udite.it non utilizza il servizio *Google+ Platform* per la profilazione dell'utente in prima parte e non ha accordi con *Google+ Platform* per profilare in prima parte.
 
-##### Link di riferimento
+######Link di riferimento
 * [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 * [Cookie](https://www.google.it/intl/it/policies/technologies/cookies/)
 
@@ -119,7 +119,7 @@ Il servizio *AddThis* può permettere agli amministratori di questo sito di most
 Il servizio *AddThis* attraverso l'uso dei propri cookie colleziona dati sulla navigazione degli utenti anche al di fuori di questo sito. 
 Questo sito non utilizza il servizio *AddThis* per la profilazione dell'utente in prima parte e non ha accordi con *AddThis* per profilare in prima parte.
 
-##### Link di riferimento
+######Link di riferimento
 * [Privacy Policy](http://www.addthis.com/privacy/privacy-policy)
 * [Opt-Out](http://www.addthis.com/privacy/opt-out)
 
