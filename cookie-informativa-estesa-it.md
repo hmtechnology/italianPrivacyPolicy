@@ -91,7 +91,7 @@ Il diniego del consenso potrebbe impedire all’utente di utilizzare o visualizz
 
 * * *
 
-## Gestione dei cookie tramite browser PC/Desktop
+## Gestione dei cookie tramite browser 
 
 Come disabilitare i cookie mediante la configurazione del browser
 
