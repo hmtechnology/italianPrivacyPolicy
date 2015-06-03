@@ -68,7 +68,7 @@ udite-udite.it non utilizza il servizio *ShinyStat* per la profilazione dell'ute
 In particolare *Google Analytics* fornisce indicazioni su come gli utenti interagiscono con i contenuti del sito, con che frequenza gli utenti visitano ciascuna pagina del sito, per quanto tempo si trattengono e con quale frequenza generano una conversione. *Google Analyticsv utilizza principalmente cookie proprietari per generare i rapporti sulle interazioni dei visitatori con i siti web. Questi cookie vengono utilizzati per memorizzare informazioni che non consentono l'identificazione personale degli utenti. Inoltre, utilizzando il metodo di [mascheratura dell'indirizzo IP](https://support.google.com/analytics/answer/2905384?hl=it), le informazioni memorizzate nel cookie vengono ridotte a un numero identificativo casuale. Gli utenti dei siti web che non vogliono che i dati relativi alla loro visita vengano monitorati possono installare il [componente aggiuntivo del browser per la disattivazione di Google Analytics] (https://tools.google.com/dlpage/gaoptout). 
 udite-udite.it non utilizza il servizio *Google Analytics* per la profilazione dell'utente in prima parte e non ha accordi con *Google Analytics* per profilare in prima parte.
 
-##### Link di riferimento
+######Link di riferimento
 * [Protezione dei dati di Google Analytics](http://www.google.com/intl/it_ALL/analytics/learn/privacy.html)
 * [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
@@ -78,21 +78,43 @@ Questa tipologia di cookie **integra funzionalità sviluppate da terzi** all’i
 
 In particolare, i cookie funzionali di terze parti utilizati da **udite.udite.it** sono: 
 
-#####Facebook Social Plugin
+#####Facebook Social Plugins
 *Facebook Social Plugin* comprende elementi web rilasciati da [http://www.facebook.com](http://www.facebook.com) quali il pulsante Mi piace, il pulsante Condividi, i commenti e altri strumenti di integrazione sociale. *Facebook Social Plugin* utilizza i contenuti e le informazioni che fornite dall'utente quando utilizza i Servizi. *Facebook Social Plugin* utilizza cookie per poter mostrare contenuti e inserzioni più pertinenti, per migliorare i prodotti e servizi e per garantire la sicurezza nei Servizi. 
 udite-udite.it non utilizza il servizio *Facebook Social Plugin* per la profilazione dell'utente in prima parte e non ha accordi con *Facebook Social Plugin* per profilare in prima parte.
 
-##### Link di riferimento
+#####Facebook Connect
+*Facebook Connect* è il sistema rilasciato da [http://www.facebook.com](http://www.facebook.com) che consente agli utenti di effettuare il login ai siti usando le proprie credenziali Facebook. *Facebook Connect* può accedere ai dati personali forniti dall'utente su Facebook. Tali dati potrebbero essere trattati da Facebook, in alcuni casi e con il suo consenso, per finalità di marketing e/o analitiche, e non solo per fornire il servizio. *Facebook Connect* utilizza cookie per mostrare contenuti e inserzioni più pertinenti e "social" quando visiti altri siti Web che utilizza i plug-in social di Facebook.
+
+######Link di riferimento
 * [Normativa sui Dati](https://www.facebook.com/full_data_use_policy)
 * [Cookie](https://www.facebook.com/help/cookies/)
 
 #####Twitter Button
-*Twitter Button* è una suite di widget rilasciata da [http://www.twitter.com](http://www.twitter.com) che integrano contenuti e pulsanti da Twitter sul sito per incoraggiare la condivisione tra gli utenti. *Twitter Button* utilizza alcune informazioni relative al browser che permette ai i pulsanti e ai widget di funzionare correttamente. *Twitter Button* utilizza cookie per finalità di misurazione e di personalizzazione del contenuto. Ad esempio, il cookie "metrics_token" aiuta a contare il numero di utenti che hanno visto un particolare Tweet.
+*Twitter Button* è una suite di widget rilasciata da [http://www.twitter.com](http://www.twitter.com) che integra contenuti e pulsanti da Twitter sul sito per incoraggiare la condivisione tra gli utenti. *Twitter Button* utilizza alcune informazioni relative al browser che permette ai i pulsanti e ai widget di funzionare correttamente. *Twitter Button* utilizza cookie per finalità di misurazione e di personalizzazione del contenuto. Ad esempio, il cookie "metrics_token" aiuta a contare il numero di utenti che hanno visto un particolare Tweet.
 udite-udite.it non utilizza il servizio *Twitter Button* per la profilazione dell'utente in prima parte e non ha accordi con *Twitter Button* per profilare in prima parte.
 
 ##### Link di riferimento
 * [Privacy Policy](https://twitter.com/privacy?lang=it)
 * [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
+
+#####Google+ Platform
+*Google+ Platform* è una suite di widget rilasciata da [http://www.google.com](http://www.google.com) che integrano contenuti e pulsanti da Google sul sito per incoraggiare la condivisione tra gli utenti. *Google+ Platform* utilizza alcune informazioni relative al browser che permette ai i pulsanti e ai widget di funzionare correttamente. *Google+ Platform* utilizza cookie per finalità di misurazione e di personalizzazione del contenuto. 
+udite-udite.it non utilizza il servizio *Google+ Platform* per la profilazione dell'utente in prima parte e non ha accordi con *Google+ Platform* per profilare in prima parte.
+
+##### Link di riferimento
+* [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+* [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
+
+##### Link di riferimento
+* [Privacy Policy](https://twitter.com/privacy?lang=it)
+* [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
+
+#####Youtube 
+*Youtube* è una è una piattaforma web, [http://www.youtube.com](http://www.youtube.com) che consente la condivisione e visualizzazione di video online. *Youtube* raccoglie, oltre ai dati forniti dall'utente, informazioni sui servizi utilizzati tra cui identificatori univoci dei dispositivi, informazioni sulla rete mobile, dati sulla posizione, e altro. *Youtube* utilizza cookie e identificatori anonimi quando l'utente interagisce con Youtube per migliorare la qualità generale dei servizi e l'esperienza degli utenti.  
+udite-udite.it non utilizza il servizio *Youtube* per la profilazione dell'utente in prima parte e non ha accordi con *Youtube* per profilare in prima parte.
+
+##### Link di riferimento
+* [Privacy Policy](https://www.google.it/intl/it/policies/privacy/)
 
 ### Cookie di profilazione
 
@@ -107,7 +129,7 @@ Sono quei cookie necessari a creare profili utenti al fine di inviare messaggi p
 *Tradedoubler* è un sistema di advertising online online rilasciato da  [http://www.tradedoubler.com/](http://www.tradedoubler.com/) che consente agli editori affiliati di pubblicare annunci sul proprio sito web. *Tradedoubler* utilizza alcuni dati anonimi dell'utente, al fine di mostrare una pubblicità più attinente e per fornire report aggregati non personali per conto dei suoi clienti. Il sistema di *Tradedoubler* di advertising e di retargeting è basato sull'utilizzo di cookie; sulla base delle informazioni anonime memorizzate nel cookie dell'Utente, *Tradedoubler* è in grado di fornire pubblicità più rilevanti per l'utente per conto dei suoi clienti.
 udite-udite.it non utilizza il servizio *Tradedoubler* per la profilazione dell'utente in prima parte e non ha accordi con *Tradedoubler* per profilare in prima parte.
 
-##### Link di riferimento
+######Link di riferimento
 * [Privacy Policy](http://www.tradedoubler.com/uk-en/privacy-policy/)
 
 #####Zanox
@@ -123,7 +145,7 @@ udite-udite.it non utilizza il servizio *Zanox* per la profilazione dell'utente 
 *Adform* utilizza alcuni dati anonimi dell'utente, al fine di mostrare una pubblicità più attinente. *Adform*, attraverso cookie con numeri di identificazioni casuali, raccoglie e memorizza informazioni anonime, quali: sistema operativo, la versione del browser, collocazione geografica, gli URL in cui Adform visualizza annunci pubblicitari, o fatti su interazioni con annunci pubblicitari (come il numero di clic o visualizzazioni).
 udite-udite.it non utilizza il servizio *Adform* per la profilazione dell'utente in prima parte e non ha accordi con *Adform* per profilare in prima parte.
 
-##### Link di riferimento
+######Link di riferimento
 * [Privacy Policy](http://site.adform.com/privacy-policy/en/)
 
 * * *
