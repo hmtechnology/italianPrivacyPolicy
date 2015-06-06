@@ -42,7 +42,14 @@ Il trattamento dei dati personali viene effettuato esclusivamente per adempiere 
 - tenere annotazione delle statistiche di accesso, rigorosamente in forma anonima, finalizzate a migliorare l'efficienza e l'usabilità del sito web
 - gestire richieste inviate dall'interessato finalizzate ad acquistare i prodotti e/o aderire a servizi offerti dal sito web
 
-In generale il trattamento dei dati avviene per consentire al Titolare di erogare i servizi richiesti dall'interessato, ed in particolare per le finalità di: **Connessioni coi Social Media**, **Visualizzazione Contenuti di Terze Parti**, **Condivisione sui Social Network**, **Statistica**, **Retargeting & Online Advertising**, **Pubblicazione Flusso RSS**, **Abilitazione ai pagamenti online**, **Invio di Newsletter e DEM (Direct Email Marketing)** attraverso i seguenti servizi:
+In generale il trattamento dei dati avviene per consentire al Titolare di erogare i servizi richiesti dall'interessato, ed in particolare per le finalità di: **Interazione con l'Utente**, **Connessioni coi Social Media**, **Visualizzazione Contenuti di Terze Parti**, **Condivisione sui Social Network**, **Statistica**, **Retargeting & Online Advertising**, **Pubblicazione Flusso RSS**, **Abilitazione ai pagamenti online**, **Invio di Newsletter e DEM (Direct Email Marketing)** attraverso i seguenti servizi:
+
+#### Moduli di Contatto
+I moduli di contatto all'interno del sito sono facoltativi e l'utente non è sottoposto a nessun obbligo se non intende compilare i campi. In tal caso non sarà erogato il servizio richiesto. All'interno di ogni modulo di contatto l'utente ha la possibilità di compilare i campi con i propri dati e di acconsentire al trattamento dei dati spuntando la casella relativa alla presa visione dell'Informativa sulla Privacy. 
+
+Finalità: **Interazione con l'Utente**
+
+Dati Personali: **Nome, Cognome, Email, Numero di Telefono, etc**
 
 #### Sistemi di Statistica 
 I Sistemi di Statistica vengono utilizzati per ottenere statistiche anonime e aggregate, utili per ottimizzare i Siti e i servizi offerti. Per rendere possibile il monitoraggio dei dati del traffico web spesso vengono utilizzati cookie analytics che, anonimizzando l'IP dei visitatori e aggregando le informazioni di navigazione, vengono assimilati ai cookie tecnici. Per l'installazione di questi cookie non è richiesto il consenso preventivo da parte dell'utente, ma è sufficiente darne indicazione nell'informativa estesa sui Cookie. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio.
@@ -268,13 +275,16 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 **Link di riferimento**: [Privacy Policy](http://www.zanox.com/it/riguardo-a-zanox/privacy_policy/)
 
 In assenza di un motivo legittimo, **[[TITOLARE TRATTAMENTO]]** non è tenuto ad utilizzare i dati personali dell'interessato. **[[TITOLARE TRATTAMENTO]]** incoraggia la consultazione in modalità anonima dei siti web senza richieste di identificazione degli utenti per cognome, nome, indirizzo di posta elettronica o altri dati identificativi quando non necessario e fornisce la documentazione necessaria per consultare i siti in "incognito".
+
 [Navigazione anonima con Chrome](https://support.google.com/chrome/answer/95464?hl=it)
+
 [Navigazione anonima con Firefox](https://support.mozilla.org/it/kb/Navigazione%20anonima)
+
 [Navigazione anonima con Opera](http://help.opera.com/Windows/12.10/it/private.html)
 * * *
 ## SEZIONE IV – TIPOLOGIA DEI DATI RACCOLTI
 I dati personali raccolti e trattati attraverso questo sito web, i moduli di contatto e/o gli altri servizi presenti nel sito **[[NOME SITO]]** sono i seguenti: 
-- **Dati forniti volontariamente dall'utente**: Nome, Cognome, Email, Numero di Telefono, etc **[[DATI RACCOLTI CON FORM]]**. La trasmissione dei dati sopra indicati avviene in modo facoltativo, esplicito e volontario e richiede l'acquisizione dei dati del mittente per rendere possibile rispondere alle richieste dell'interessato. 
+- **Dati forniti volontariamente dall'utente**: Nome, Cognome, Email, Numero di Telefono, e altri dati raccoltri  attraverso i moduli di contatto presenti all'interno del sito. La trasmissione dei dati sopra indicati avviene in modo facoltativo, esplicito e volontario e richiede l'acquisizione dei dati del mittente per rendere possibile rispondere alle richieste dell'interessato. 
 
 - **Dati di navigazione**: Indirizzo IP, Sistema Operativo, tipologia di Browser, tempo di permanenza sulle pagine e altri dati la cui trasmissione avviene in maniera automatica nell'uso dei protocolli di comunicazione di Internet.
 
