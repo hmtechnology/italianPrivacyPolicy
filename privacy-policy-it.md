@@ -44,7 +44,228 @@ Il trattamento dei dati personali viene effettuato esclusivamente per adempiere 
 
 In generale il trattamento dei dati avviene per consentire al Titolare di erogare i servizi richiesti dall'interessato, ed in particolare per le finalità di: **Connessioni coi Social Media**, **Visualizzazione Contenuti di Terze Parti**, **Condivisione sui Social Network**, **Statistica**, **Retargeting & Online Advertising**, **Pubblicazione Flusso RSS**, **Abilitazione ai pagamenti online**, **Invio di Newsletter e DEM (Direct Email Marketing)** attraverso i seguenti servizi:
 
-**[[ELENCO SERVIZI UTILIZZATI]]**
+#### Sistemi di Statistica 
+I Sistemi di Statistica vengono utilizzati per ottenere statistiche anonime e aggregate, utili per ottimizzare i Siti e i servizi offerti. Per rendere possibile il monitoraggio dei dati del traffico web spesso vengono utilizzati cookie analytics che, anonimizzando l'IP dei visitatori e aggregando le informazioni di navigazione, vengono assimilati ai cookie tecnici. Per l'installazione di questi cookie non è richiesto il consenso preventivo da parte dell'utente, ma è sufficiente darne indicazione nell'informativa estesa sui Cookie. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio.
+
+##### **ShinyStat**
+*ShinyStat* è un sistema di rilevazione e statistiche rilasciato da [shinystat.com](http://www.shinystat.com/) che permette di monitorare in forma aggregata gli accessi ai siti web.
+ 
+Finalità: **Statistica**
+
+Dati Personali: **Dati di Navigazione e Cookie**
+
+Il servizio *ShinyStat* acquisisce alcuni dati degli utenti (dati di navigazione) che non sono raccolto per essere associati a interessati identificati ma al solo fine di ricavare informazioni statistiche anonime sull'uso del sito e per controllarne il corretto funzionamento. 
+
+**Link di riferimento**: [Privacy Policy](http://www.shinystat.com/it/informativa_privacy_generale.html)
+
+#####**Google Analytics (anonimizzato)**
+*Google Analytics* è uno strumento analitico, [google.it/analytics](www.google.it/intl/it/analytics/), che aiuta i proprietari di siti web a misurare le statistiche del sito web. 
+
+Finalità: **Statistica**
+
+Dati Personali: **Dati di Navigazione e Cookie**
+
+In particolare *Google Analytics* fornisce indicazioni su come gli utenti interagiscono con i contenuti del sito, con che frequenza gli utenti visitano ciascuna pagina del sito, per quanto tempo si trattengono e con quale frequenza generano una conversione. 
+
+**Link di riferimento**: [Protezione dei dati di Google Analytics](http://www.google.com/intl/it_ALL/analytics/learn/privacy.html)
+
+#### Strumenti di Social Media
+Gli strumenti di Social Media consentono di realizzare delle connessioni multimediali con i principali social network richiamando i contenuti digitali all'interno delle pagine del sito web. Gli strumenti di Social Media solitamente rilevano dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti. Tali servizi, anche nei casi in cui non vengano utilizzati dall'Utente, potrebbero raccogliere dati di navigazione relative alle pagine in cui sono presenti. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di strumenti di Social Media viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
+
+#####**Facebook Connect**
+*Facebook Connect* è il sistema rilasciato da [facebook.com](http://www.facebook.com) che consente agli utenti di effettuare il login ai siti usando le proprie credenziali Facebook. 
+
+Finalità: **Connessione coi Social Media**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Facebook Connect* può accedere ai dati di navigazione e ai dati forniti dall'utente su Facebook. Tali dati potrebbero essere trattati da Facebook, in alcuni casi e con il suo consenso, per finalità di marketing e/o analitiche, e non soltanto per fornire il servizio.
+
+**Link di riferimento**: [Normativa sui Dati](https://www.facebook.com/full_data_use_policy)
+
+##### **Facebook Social Plugins**
+
+*Facebook Social Plugins* comprende elementi web rilasciati da [http://www.facebook.com](http://www.facebook.com) quali il pulsante Mi piace, il pulsante Condividi, i commenti e altri strumenti di integrazione sociale.
+
+Finalità: **Connessione coi Social Media**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Facebook Social Plugins* utilizza i contenuti e le informazioni che fornite dall'utente quando utilizza i Servizi. 
+
+**Link di riferimento**: [Normativa sui Dati](https://www.facebook.com/full_data_use_policy)
+
+#####**Google+ Platform**
+
+*Google+ Platform* è una suite di widget rilasciata da [http://www.google.com](http://www.google.com) che integrano contenuti e pulsanti da Google sul sito per incoraggiare la condivisione tra gli utenti. 
+
+Finalità: **Connessione coi Social Media**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Google+ Platform* utilizza alcune informazioni relative al browser che permette ai i pulsanti e ai widget di funzionare correttamente. 
+
+**Link di riferimento**: [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+
+#####** Twitter Button**
+*Twitter Button* è una suite di widget rilasciata da [http://www.twitter.com](http://www.twitter.com) che integra contenuti e pulsanti da Twitter sul sito per incoraggiare la condivisione tra gli utenti.  
+
+Finalità: **Connessione coi Social Media**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Twitter Button* utilizza alcune informazioni relative al browser che permette ai i pulsanti e ai widget di funzionare correttamente.
+
+**Link di riferimento**: [Privacy Policy](https://twitter.com/privacy?lang=it)
+
+##### **Social Networks**
+
+Questo sito può utilizzare porzioni di codice provenienti dai social network *Vine, Pinterest, Instagram*.
+
+Finalità: **Connessione coi Social Media**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Questi servizi* possono accedere ai dati di navigazione e ai dati forniti dall'utente durante l'utilizzo di questi servizi. 
+
+**Link di riferimento**: [Vine privacy policy](https://vine.co/privacy) | [Pinterest privacy policy](https://about.pinterest.com/it/privacy-policy) | [Instagram privacy policy](https://instagram.com/about/legal/privacy/)
+
+#### Strumenti di Condivisione Sociale
+Gli strumenti di Condivisione Sociale permettono di inserire all'interno del proprio sito dei pulsanti o delle barre che consentono l'immediata condivisione sui social network da parte degli Utenti. Gli strumenti di Condivision Sociale solitamente rilevano dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti. Tali servizi, anche nei casi in cui non vengano utilizzati dall'Utente, potrebbero raccogliere dati di navigazione relative alle pagine in cui sono presenti. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di strumenti di Condivisione Social viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
+
+#####**AddToAny**
+*AddToAny* è un sistema rilasciato da [https://www.addtoany.com/](https://www.addtoany.com/) che permette la facile condivisione dei contenuti di questo sito attraverso e-mail e i principali siti web di social network.
+
+Finalità: **Condivisione sui Social Network**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+Il servizio *AddToAny* permette di salvare le preferenze sociali degli utenti
+
+**Link di riferimento**: [Privacy Policy](https://www.addtoany.com/privacy)
+
+#### Embed di contenuti di terze parti
+L'embed di contenuti di terze parti consente di mostrare sul proprio sito file multimediale ospitati su servizi di terze parti e di utilizzare le stesse funzionalità consentite dal servizio terze parti. L'embed di contenuti di terze parti solitamente rileva dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti. Tali servizi, anche nei casi in cui non vengano utilizzati dall'Utente, potrebbero raccogliere dati di navigazione relative alle pagine in cui sono presenti. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di servizi di terze parti viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio.
+
+#####** Google Map**
+
+Questo sito utilizza porzioni di codice proveniente dal sito https://maps.google.com/ al fine di mostrare alcuni mappe nelle proprie pagine. 
+
+Finalità: **Visualizzazione Contenuti da Terze Parti**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Google Map* può accedere ai dati di navigazione e ai dati forniti dall'utente su Google.
+
+**Link di riferimento**: [Term Maps](https://www.google.com/intl/it_IT/help/terms_maps.html) 
+
+#####** Youtube Video**
+
+Questo sito utilizza porzioni di codice proveniente dal sito [https://www.youtube.com/](https://www.youtube.com/) al fine di mostrare alcuni contenuti video nelle proprie pagine. 
+
+Finalità: **Visualizzazione Contenuti da Terze Parti**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Youtube Video* può accedere ai dati di navigazione e ai dati forniti dall'utente su Google.
+
+**Link di riferimento**: [Privacy Policy](http://www.google.com/policies/privacy/)
+
+#####** Vimeo Video**
+
+Questo sito utilizza porzioni di codice proveniente dal sito https://vimeo.com/ al fine di mostrare alcuni contenuti video nelle proprie pagine. 
+
+Finalità: **Visualizzazione Contenuti da Terze Parti**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Vimeo Video* può accedere ai dati di navigazione e ai dati forniti dall'utente su Vimeo.
+
+**Link di riferimento**: [Privacy Policy](https://vimeo.com/privacy) 
+
+#### Servizi su Piattaforme Esterne
+I servizi su Piattaforme Esterne sono strumenti esterni al sito web che trasferiscono l'Utente sulle piattaforme preposte per assolvere a precise finalità, quali ad esempio, la pubblicazione di Feed RSS, l'abilitazione di pagamenti online o l'invio di newsletter e DEM a indirizzi di liste email. Essendo servizi esterni al sito web, non è installato alcun cookie all'interno di questo sito; tuttavia, trattandosi di servizi che, sulle loro piattaforme, possono far uso di cookie ne viene data comunicazione in questa informativa estesa.
+
+#### Feed RSS
+I feed RSS sono flussi di dati espressi solitamente in formato XML che consentono di visualizzare in modo rapido una serie di contenuti aggiornati di frequente sul proprio computer o mobile. I Feed RSS solitamente rilevano dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti e mostrare contenuti pubblicitari in relazione ad esse. Per l'installazione di questi cookie non è richiesto il consenso preventivo da parte dell'utente poichè la trasmissione di informazione eventualmente corredati da annunci pubblicitari avviene direttamente su altre piattaforme esterne senza essere integrate all'interno del sito. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
+
+##### **FeedBurner**
+
+*FeedBurner* è una piattaforma rilasciata da [http://www.google.com](http://www.google.com) che consente la distribuzione di feed RSS.
+
+Finalità: **Pubblicazione Flusso RSS**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*FeedBurner* può accedere ai dati di navigazione e ai dati forniti dall'utente su Google per creare un sistema di statistiche e di tracciamento della diffusione del feed.
+
+**Link di riferimento**: [Privacy](https://www.google.com/policies/privacy/)
+
+#### Sistemi di Pagamento
+I Sistemi di Pagamento consentono agli Utenti di effettuare pagamenti online attraverso carta di credito, bonifico bancario o altri strumenti di pagamento. I dati utilizzati dall'utente per il pagamento vengono trattati direttamente ed esclusivamente dal titolare o dal responsabile del servizio di pagamento richiesto. Tali servizi potrebbero inviare email di conferma o email contenenti fattura nel caso l'utente utilizzi il servizio. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
+
+##### **Paypal**
+
+*Paypal* è il sistema rilasciato da [http://www.paypal.com](http://www.paypal.com) che consente agli utenti di effettuare pagamenti digitali e di trasferimento di denaro tramite Internet.
+
+Finalità: **Abilitazione Pagamenti Online**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+Per usare i servizi *PayPal*, l'utente deve fornire il nome, l'indirizzo, il numero di telefono e l'indirizzo email. Per eseguire pagamenti mediante i servizi PayPal, l'utente deve fornire i dati della carta di credito o prepagata o del conto bancario.
+
+**Link di riferimento**: [Privacy](https://www.paypal.com/it/webapps/mpp/ua/privacy-full)
+
+#### Sistemi di Invio Email
+I sistemi di Invio Email (Newsletter e DEM) consentono di inviare email relative alle ultime novità, aggiornamenti o approfondimenti su argomenti scelti dall'utente e anche di inviare email con contenuti commerciali e messaggi pubblicitari una tantum. I sistemi di Invio Email solitamente rilevano dati di navigazione e utilizzano cookie che potrebbero tracciare informazioni statistiche sull'utente per valutare la reale efficacia delle campagne email svolte. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di sistemi di Invio Email viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
+
+##### **Mailchimp**
+
+*Mailchimp* è una piattaforma di email marketing, [mailchimp.com](http://www.mailchimp.com], specializzata nella distribuzione di Newsletter e Dem.
+
+Finalità: **Invio di Newsletter e DEM**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Mailchimp* può accedere ai dati di navigazione e ai dati forniti dall'utente sui moduli di contatto preposti al servizio.  
+
+**Link di riferimento**: [Privacy](http://mailchimp.com/legal/privacy/)
+
+#### Strumenti Pubblicitari
+Gli Strumenti Pubblicitari permettono di mostrare nel sito web nel quale sono utilizzati annunci pubblicitari sulla base dell'utilizzo del sito web da parte dell'Utente. Per rendere possibile il display di annunci in linea con le preferenze dell'utente spesso vengono utilizzati cookie e dati di navigazione, che potrebbero essere trasmesse al proprio network collegato all'attività di remarketing e online advertising. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di strumenti pubblicitari viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio.
+
+#####** Tradedoubler**
+*Tradedoubler* è un sistema di advertising online online rilasciato da  [http://www.tradedoubler.com/](http://www.tradedoubler.com/) che consente agli editori affiliati di pubblicare annunci sul proprio sito web. 
+
+Finalità: **Retargeting & Online Advertising**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Tradedoubler* utilizza alcuni dati dell'utente, al fine di mostrare una pubblicità più attinente e per fornire report aggregati non personali per conto dei suoi clienti. 
+
+**Link di riferimento**: [Privacy Policy](http://www.tradedoubler.com/uk-en/privacy-policy/)
+
+#####** Adform**
+*Adform* è una società specializzata in display advertising [http://site.adform.com/](http://site.adform.com/) che permette una personalizzazione delle offerte in tempo reale attraverso l’integrazione delle stesse nei siti degli editori affiliati. 
+
+Finalità: **Retargeting & Online Advertising**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Adform* utilizza alcuni dati anonimi dell'utente, al fine di mostrare una pubblicità più attinente. 
+
+**Link di riferimento**: [Privacy Policy](http://site.adform.com/privacy-policy/en/)
+
+#####**Zanox**
+*Zanox* è un sistema di advertising online rilasciato da [http://www.zanox.com/](http://www.zanox.com/) che consente, tramite un programma di affiliazione, di pubblicare offerte e prodotti all'interno del sito degi editoriali affiliati. 
+
+Finalità: **Retargeting & Online Advertising**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Zanox* utilizza alcuni dati anonimi dell'utente, al fine di mostrare una pubblicità più attinente.
+
+**Link di riferimento**: [Privacy Policy](http://www.zanox.com/it/riguardo-a-zanox/privacy_policy/)
 
 In assenza di un motivo legittimo, **[[TITOLARE TRATTAMENTO]]** non è tenuto ad utilizzare i dati personali dell'interessato. **[[TITOLARE TRATTAMENTO]]** incoraggia la consultazione in modalità anonima dei siti web senza richieste di identificazione degli utenti per cognome, nome, indirizzo di posta elettronica o altri dati identificativi quando non necessario e fornisce la documentazione necessaria per consultare i siti in "incognito".
 [Navigazione anonima con Chrome](https://support.google.com/chrome/answer/95464?hl=it)
