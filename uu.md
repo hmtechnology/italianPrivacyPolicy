@@ -65,7 +65,7 @@ Dati Personali: **Dati di Navigazione e Cookie**
 
 Il servizio *ShinyStat* utilizza cookie di tipo analytics assimilati ai cookie tecnici in quanto vengono utilizzati in forma anonima e aggregata e non collezionano alcun dato personale in grado di identificare personalmente gli utenti.
 
-[[NOME SITO]] non utilizza il servizio *ShinyStat* per la profilazione dell'utente in prima parte e non ha accordi con *ShinyStat* per profilare in prima parte.
+**[URL SITO]]** non utilizza il servizio *ShinyStat* per la profilazione dell'utente in prima parte e non ha accordi con *ShinyStat* per profilare in prima parte.
 
 ###### Link di riferimento
 
@@ -82,7 +82,7 @@ Dati Personali: **Dati di Navigazione e Cookie**
 
 *Google Analytics* utilizza principalmente cookie per generare i rapporti sulle interazioni dei visitatori con i siti web. Questi cookie vengono utilizzati per memorizzare informazioni che non consentono l'identificazione personale degli utenti. Inoltre, utilizzando il metodo di [mascheratura dell'indirizzo IP](https://support.google.com/analytics/answer/2905384?hl=it), le informazioni memorizzate nel cookie vengono ridotte a un numero identificativo casuale. Gli utenti dei siti web che non vogliono che i dati relativi alla loro visita vengano monitorati possono installare il [componente aggiuntivo del browser per la disattivazione di Google Analytics](https://tools.google.com/dlpage/gaoptout). 
 
-[[NOME SITO]] non utilizza il servizio *Google Analytics* per la profilazione dell'utente in prima parte e non ha accordi con *Google Analytics* per profilare in prima parte.
+**[URL SITO]]** non utilizza il servizio *Google Analytics* per la profilazione dell'utente in prima parte e non ha accordi con *Google Analytics* per profilare in prima parte.
 ###### Link di riferimento
 * [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
@@ -101,7 +101,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 *Facebook Connect* utilizza cookie per mostrare contenuti e inserzioni più pertinenti quando l'utente visita altri siti Web che utilizza i plug-in social di Facebook.
 
-[[NOME SITO]] non utilizza il servizio *Facebook Connect* per la profilazione dell'utente in prima parte e non ha accordi con *Facebook Connect* per profilare in prima parte.
+**[[URL SITO]]** non utilizza il servizio *Facebook Connect* per la profilazione dell'utente in prima parte e non ha accordi con *Facebook Connect* per profilare in prima parte.
 
 ###### Link di riferimento
 * [Cookie](https://www.facebook.com/help/cookies/)
@@ -116,7 +116,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 *Facebook Social Plugins* utilizza cookie per poter mostrare contenuti e inserzioni più pertinenti, per migliorare i prodotti e servizi e per garantire la sicurezza nei Servizi.
 
-[[NOME SITO]] non utilizza il servizio *Facebook Social Plugins* per la profilazione dell'utente in prima parte e non ha accordi con *Facebook Social Plugins* per profilare in prima parte.
+**[[URL SITO]]** non utilizza il servizio *Facebook Social Plugins* per la profilazione dell'utente in prima parte e non ha accordi con *Facebook Social Plugins* per profilare in prima parte.
 
 ###### Link di riferimento
 * [Cookie](https://www.facebook.com/help/cookies/)
@@ -131,7 +131,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 *Google+ Platform* utilizza cookie per finalità di misurazione e di personalizzazione del contenuto. 
 
-[[NOME SITO]] non utilizza il servizio *Google+ Platform* per la profilazione dell'utente in prima parte e non ha accordi con *Google+ Platform* per profilare in prima parte.
+**[[URL SITO]]** non utilizza il servizio *Google+ Platform* per la profilazione dell'utente in prima parte e non ha accordi con *Google+ Platform* per profilare in prima parte.
 
 ###### Link di riferimento
 * [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
@@ -140,11 +140,12 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 *Twitter Button* è una suite di widget rilasciata da [http://www.twitter.com](http://www.twitter.com) che integra contenuti e pulsanti da Twitter sul sito per incoraggiare la condivisione tra gli utenti.  
 
 Finalità: **Connessione coi Social Media**
+
 Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
 
 *Twitter Button* utilizza cookie per finalità di misurazione e di personalizzazione del contenuto. Ad esempio, il cookie "metrics_token" aiuta a contare il numero di utenti che hanno visto un particolare Tweet.
 
-[[NOME SITO]] non utilizza il servizio *Twitter Button* per la profilazione dell'utente in prima parte e non ha accordi con *Twitter Button* per profilare in prima parte.
+**[[URL SITO]]** non utilizza il servizio *Twitter Button* per la profilazione dell'utente in prima parte e non ha accordi con *Twitter Button* per profilare in prima parte.
 
 ###### Link di riferimento
 * [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
@@ -159,7 +160,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 *Questi servizi* possono utilizzare alcuni cookie tecnici utilizzati solo per il funzionamento del servizio e alcuni cookie di profilazione in grado di tenere traccia del comportamento dell'utente. Tali cookie possono rimanere installati nel browser dell'utente per periodi superiori alla singola sessione. 
 
-[[NOME SITO]] non usa questi cookie per profilare in prima persona, né ha accordi con i gestori di questi social network per la profilazione in prima persona.
+**[[URL SITO]]** non usa questi cookie per profilare in prima persona, né ha accordi con i gestori di questi social network per la profilazione in prima persona.
 
 ###### Link di riferimento
 * [Vine privacy policy](https://vine.co/privacy)
@@ -180,7 +181,7 @@ Il servizio *AddToAny* permette di salvare le preferenze sociali degli utenti.
 
 Il servizio *AddToAny* attraverso l'uso dei propri cookie colleziona dati sulla navigazione degli utenti anche al di fuori di questo sito. 
 
-[[NOME SITO]] non utilizza il servizio *AddToAny* per la profilazione dell'utente in prima parte e non ha accordi con *AddToAny* per profilare in prima parte.
+**[[URL SITO]]** non utilizza il servizio *AddToAny* per la profilazione dell'utente in prima parte e non ha accordi con *AddToAny* per profilare in prima parte.
 
 ###### Link di riferimento
 * [Privacy Policy](https://www.addtoany.com/privacy)
@@ -197,7 +198,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 *Google Map* installa alcuni cookie tecnici utilizzati solo per il funzionamento del servizio e alcuni cookie di profilazione in grado di tenere traccia del comportamento dell'utente. Tali cookie possono rimanere installati nel browser dell'utente per periodi superiori alla singola sessione. 
 
-[[NOME SITO]] non utilizza il servizio *Google Map* per la profilazione dell'utente in prima parte e non ha accordi con *Google Map* per profilare in prima parte.
+**[[URL SITO]]** non utilizza il servizio *Google Map* per la profilazione dell'utente in prima parte e non ha accordi con *Google Map* per profilare in prima parte.
 
 ###### Link di riferimento
 * [Term Maps](https://www.google.com/intl/it_IT/help/terms_maps.html)
@@ -214,7 +215,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 *YouTube Video* installa alcuni cookie tecnici utilizzati solo per il funzionamento del servizio e alcuni cookie di profilazione in grado di tenere traccia del comportamento dell'utente. Tali cookie possono rimanere installati nel browser dell'utente per periodi superiori alla singola sessione.
 
-[[NOME SITO]] non utilizza il servizio *Youtube Video* per la profilazione dell'utente in prima parte e non ha accordi con *Youtube Video* per profilare in prima parte.
+**[[URL SITO]]** non utilizza il servizio *Youtube Video* per la profilazione dell'utente in prima parte e non ha accordi con *Youtube Video* per profilare in prima parte.
 ###### Link di riferimento
 * [Cookies]( https://www.google.it/intl/it/policies/technologies/cookies/)
 * [Managing](https://www.google.it/intl/it/policies/technologies/managing/)
@@ -229,7 +230,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 *Vimeo Video* installa alcuni cookie tecnici utilizzati solo per il funzionamento del servizio e alcuni cookie di profilazione in grado di tenere traccia del comportamento dell'utente. Tali cookie possono rimanere installati nel browser dell'utente per periodi superiori alla singola sessione. 
 
-[[NOME SITO]] non utilizza il servizio *Vimeo Video* per la profilazione dell'utente in prima parte e non ha accordi con *Vimeo Video* per profilare in prima parte.
+**[[URL SITO]]** non utilizza il servizio *Vimeo Video* per la profilazione dell'utente in prima parte e non ha accordi con *Vimeo Video* per profilare in prima parte.
 
 ##### Link di riferimento
 * [Cookie Policy](https://vimeo.com/cookie_policy)
@@ -258,7 +259,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 Il sistema di *Tradedoubler* di advertising e di retargeting è basato sull'utilizzo di cookie; sulla base delle informazioni anonime memorizzate nel cookie dell'Utente, *Tradedoubler* è in grado di fornire pubblicità più rilevanti per l'utente per conto dei suoi clienti.
 
-[[NOME SITO]] non utilizza il servizio *Tradedoubler* per la profilazione dell'utente in prima parte e non ha accordi con *Tradedoubler* per profilare in prima parte.
+**[URL SITO]]** non utilizza il servizio *Tradedoubler* per la profilazione dell'utente in prima parte e non ha accordi con *Tradedoubler* per profilare in prima parte.
 
 ###### Link di riferimento
 * [Privacy Policy](http://www.tradedoubler.com/uk-en/privacy-policy/)
@@ -272,7 +273,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 *Adform*, attraverso cookie con numeri di identificazioni casuali, raccoglie e memorizza informazioni anonime, quali: sistema operativo, la versione del browser, collocazione geografica, gli URL in cui Adform visualizza annunci pubblicitari, o fatti su interazioni con annunci pubblicitari (come il numero di clic o visualizzazioni).
 
-[[NOME SITO]] non utilizza il servizio *Adform* per la profilazione dell'utente in prima parte e non ha accordi con *Adform* per profilare in prima parte.
+**[URL SITO]]** non utilizza il servizio *Adform* per la profilazione dell'utente in prima parte e non ha accordi con *Adform* per profilare in prima parte.
 
 ###### Link di riferimento
 * [Privacy Policy](http://site.adform.com/privacy-policy/en/)
@@ -285,7 +286,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 *Zanox* utilizza cookie al fine di registrare le transazioni commerciali (lead e vendite); i cookie contengono solo una sequenza individuale di cifre che non possono essere assegnati a un particolare utente.
 
-[[NOME SITO]] non utilizza il servizio *Zanox* per la profilazione dell'utente in prima parte e non ha accordi con *Zanox* per profilare in prima parte.
+**[URL SITO]]** non utilizza il servizio *Zanox* per la profilazione dell'utente in prima parte e non ha accordi con *Zanox* per profilare in prima parte.
 
 ###### Link di riferimento
 * [Privacy Policy](http://www.zanox.com/it/riguardo-a-zanox/privacy_policy/)
