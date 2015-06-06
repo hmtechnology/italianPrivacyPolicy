@@ -238,7 +238,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Privacy](https://www.google.com/policies/privacy/)
 
-#### Feed RSS
+#### Sistemi di Pagamento
 I Sistemi di Pagamento consentono agli Utenti di effettuare pagamenti online attraverso carta di credito, bonifico bancario o altri strumenti di pagamento. I dati utilizzati dall'utente per il pagamento vengono trattati direttamente ed esclusivamente dal titolare o dal responsabile del servizio di pagamento richiesto. Tali servizi potrebbero inviare email di conferma o email contenenti fattura nel caso l'utente utilizzi il servizio. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
 
 ##### **Paypal**
