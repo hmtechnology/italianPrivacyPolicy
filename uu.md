@@ -67,7 +67,7 @@ Il servizio *ShinyStat* utilizza cookie di tipo analytics assimilati ai cookie t
 
 **[URL SITO]]** non utilizza il servizio *ShinyStat* per la profilazione dell'utente in prima parte e non ha accordi con *ShinyStat* per profilare in prima parte.
 
-###### Link di riferimento
+**Link di riferimento**: 
 
 * [Cookie Policy](http://www.shinystat.com/it/informativa_cookie_sito.html)
 * [Opt-Out](http://www.shinystat.com/it/opt-out_free.html)
