@@ -47,9 +47,9 @@ In generale il trattamento dei dati avviene per consentire al Titolare di erogar
 **[[ELENCO SERVIZI UTILIZZATI]]**
 
 In assenza di un motivo legittimo, **[[TITOLARE TRATTAMENTO]]** non è tenuto ad utilizzare i dati personali dell'interessato. **[[TITOLARE TRATTAMENTO]]** incoraggia la consultazione in modalità anonima dei siti web senza richieste di identificazione degli utenti per cognome, nome, indirizzo di posta elettronica o altri dati identificativi quando non necessario e fornisce la documentazione necessaria per consultare i siti in "incognito".
-Navigazione anonima con Chrome
-Navigazione anonima con Firefox
-Navigazione anonima con Opera
+[Navigazione anonima con Chrome](https://support.google.com/chrome/answer/95464?hl=it)
+[Navigazione anonima con Firefox](https://support.mozilla.org/it/kb/Navigazione%20anonima)
+[Navigazione anonima con Opera](http://help.opera.com/Windows/12.10/it/private.html)
 * * *
 ## SEZIONE IV – TIPOLOGIA DEI DATI RACCOLTI
 I dati personali raccolti e trattati attraverso questo sito web, i moduli di contatto e/o gli altri servizi presenti nel sito **[[NOME SITO]]** sono i seguenti: 
