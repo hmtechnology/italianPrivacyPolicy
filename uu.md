@@ -272,7 +272,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 **Link di riferimento**: [Privacy Policy](http://www.zanox.com/it/riguardo-a-zanox/privacy_policy/)
 
 * * *
-## SEZIONE IV - USO DEI COOKIE E CONSENSO
+## SEZIONE IV - MODALITA' DI ACQUISIZIONE DEL CONSENSO
 **[[URL SITO]]**, secondo la normativa vigente, non è tenuto a chiedere consenso per i **cookie tecnici** e di **analytics** (se anonimizzati), in quanto necessari a fornire i servizi richiesti e a raccogliere i dati dei navigatori in forma anonima.
 
 Per tutte le altre tipologie di cookie il consenso può essere espresso dall’Utente con una o più di una delle seguenti modalità:
