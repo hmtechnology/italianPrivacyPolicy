@@ -56,7 +56,7 @@ In particolare, i cookie analitici di terze parti utilizzati da **[[URL SITO]]**
 ##### Sistemi di Statistica 
 I Sistemi di Statistica vengono utilizzati per ottenere statistiche anonime e aggregate, utili per ottimizzare i Siti e i servizi offerti. Per rendere possibile il monitoraggio dei dati del traffico web spesso vengono utilizzati cookie analytics che, anonimizzando l'IP dei visitatori e aggregando le informazioni di navigazione, vengono assimilati ai cookie tecnici. Per l'installazione di questi cookie non è richiesto il consenso preventivo da parte dell'utente, ma è sufficiente darne indicazione nell'informativa estesa sui Cookie. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio.
 
-######** ShinyStat**
+###### **ShinyStat**
 *ShinyStat* è un sistema di rilevazione e statistiche rilasciato da [shinystat.com](http://www.shinystat.com/) che permette di monitorare in forma aggregata gli accessi ai siti web.
  
 Finalità: **Statistica**
@@ -106,7 +106,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 ###### Link di riferimento
 * [Cookie](https://www.facebook.com/help/cookies/)
 
-### Facebook Social Plugins
+###### **Facebook Social Plugins**
 
 *Facebook Social Plugins* comprende elementi web rilasciati da [http://www.facebook.com](http://www.facebook.com) quali il pulsante Mi piace, il pulsante Condividi, i commenti e altri strumenti di integrazione sociale.
 
