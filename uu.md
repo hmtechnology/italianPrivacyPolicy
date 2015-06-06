@@ -24,7 +24,7 @@ In sintesi i cookie permettono dimemorizzare le preferenze inserite; evitare di 
 
 **[[URL SITO]]** utilizza i Cookie per rendere i propri servizi semplici e efficienti per l’utenza che visiona le pagine di **[[URL SITO]]**. A seguire i vari tipi di cookie utilizzati da **[[URL SITO]]** in funzione delle finalità d’uso.
 
-### Cookie Tecnici
+### 3.1 Cookie Tecnici
 
 Questa tipologia di cookie permette il **corretto funzionamento di alcune sezioni del Sito**. Sono di due categorie: persistenti e di sessione:
 
@@ -46,17 +46,17 @@ In particolare, i cookie tecnici utilizzati da **[[URL SITO]]** sono:
 | wordpress_test  | [[URL SITO]]  | session         | Questo cookie è utilizzato per gestire l'evento di login |
 | wordpress_test_cookie  | [[URL SITO]]  | session         | Questo cookie è utilizzato per testare il browser in uso e se è in grado di utilizzare i cookie |
 
-### Cookie di Terze Parti 
-#### Cookie analitici di terze parti (anonimizzati)
+### 3.2 Cookie di Terze Parti 
+#### 3.2.1 Cookie analitici di terze parti (anonimizzati)
 
 Questi cookie sono utilizzati al fine di raccogliere informazioni sull’**uso del Sito** da parte degli utenti in **forma anonima** quali: pagine visitate, tempo di permanenza, origini del traffico di provenienza, provenienza geografica, età, genere e interessi ai fini di campagne di marketing. Questi cookie sono inviati da domini di terze parti esterni al Sito.
 
 In particolare, i cookie analitici di terze parti utilizzati da **[[URL SITO]]** appartengono ai seguenti servizi: 
 
-##### Sistemi di Statistica 
+#### Sistemi di Statistica 
 I Sistemi di Statistica vengono utilizzati per ottenere statistiche anonime e aggregate, utili per ottimizzare i Siti e i servizi offerti. Per rendere possibile il monitoraggio dei dati del traffico web spesso vengono utilizzati cookie analytics che, anonimizzando l'IP dei visitatori e aggregando le informazioni di navigazione, vengono assimilati ai cookie tecnici. Per l'installazione di questi cookie non è richiesto il consenso preventivo da parte dell'utente, ma è sufficiente darne indicazione nell'informativa estesa sui Cookie. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio.
 
-###### **ShinyStat**
+##### **ShinyStat**
 *ShinyStat* è un sistema di rilevazione e statistiche rilasciato da [shinystat.com](http://www.shinystat.com/) che permette di monitorare in forma aggregata gli accessi ai siti web.
  
 Finalità: **Statistica**
@@ -69,7 +69,7 @@ Il servizio *ShinyStat* utilizza cookie di tipo analytics assimilati ai cookie t
 
 **Link di riferimento**: [Cookie Policy](http://www.shinystat.com/it/informativa_cookie_sito.html) | [Opt-Out](http://www.shinystat.com/it/opt-out_free.html) | [Anonimizzazione IP ShinyStat](http://www.shinystat.com/it/anonimizzazione.html)
 
-######**Google Analytics (anonimizzato)**
+#####**Google Analytics (anonimizzato)**
 *Google Analytics* è uno strumento analitico, [google.it/analytics](www.google.it/intl/it/analytics/), che aiuta i proprietari di siti web a misurare le statistiche del sito web. 
 
 Finalità: **Statistica**
@@ -82,13 +82,13 @@ Dati Personali: **Dati di Navigazione e Cookie**
 
 **Link di riferimento**: [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
-#### Cookie per integrare prodotti e funzioni di terze parti
+#### 3.2.2 Cookie per integrare prodotti e funzioni di terze parti
 
 Questa tipologia di cookie **integra funzionalità sviluppate da terzi** all’interno delle pagine del Sito come le icone e le preferenze espresse nei social network al fine di condivisione dei contenuti del sito o per l’uso di servizi software di terze parti (come i software per generare le mappe e ulteriori software che offrono servizi aggiuntivi). Questi cookie sono inviati da **domini di terze parti** e da **siti partner** che offrono le loro funzionalità tra le pagine del Sito. In particolare, i cookie funzionali di terze parti utilizzati da **[[URL SITO]]** sono:
 
-##### Strumenti di Social Media
+#### Strumenti di Social Media
 Gli strumenti di Social Media consentono di realizzare delle connessioni multimediali con i principali social network richiamando i contenuti digitali all'interno delle pagine del sito web. Gli strumenti di Social Media solitamente rilevano dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti. Tali servizi, anche nei casi in cui non vengano utilizzati dall'Utente, potrebbero raccogliere dati di navigazione relative alle pagine in cui sono presenti. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di strumenti di Social Media viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
-######**Facebook Connect**
+#####**Facebook Connect**
 *Facebook Connect* è il sistema rilasciato da [facebook.com](http://www.facebook.com) che consente agli utenti di effettuare il login ai siti usando le proprie credenziali Facebook. 
 
 Finalità: **Connessione coi Social Media**
@@ -101,7 +101,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Cookie](https://www.facebook.com/help/cookies/)
 
-###### **Facebook Social Plugins**
+##### **Facebook Social Plugins**
 
 *Facebook Social Plugins* comprende elementi web rilasciati da [http://www.facebook.com](http://www.facebook.com) quali il pulsante Mi piace, il pulsante Condividi, i commenti e altri strumenti di integrazione sociale.
 
@@ -115,7 +115,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Cookie](https://www.facebook.com/help/cookies/)
 
-######**Google+ Platform**
+#####**Google+ Platform**
 
 *Google+ Platform* è una suite di widget rilasciata da [http://www.google.com](http://www.google.com) che integrano contenuti e pulsanti da Google sul sito per incoraggiare la condivisione tra gli utenti. 
 
@@ -129,7 +129,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
 
-######** Twitter Button**
+#####** Twitter Button**
 *Twitter Button* è una suite di widget rilasciata da [http://www.twitter.com](http://www.twitter.com) che integra contenuti e pulsanti da Twitter sul sito per incoraggiare la condivisione tra gli utenti.  
 
 Finalità: **Connessione coi Social Media**
@@ -142,7 +142,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
 
-######** Social Networks**
+##### **Social Networks**
 
 Questo sito può utilizzare porzioni di codice provenienti dai social network *Vine, Pinterest, Instagram*.
 
@@ -156,9 +156,9 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Vine privacy policy](https://vine.co/privacy) | [Pinterest privacy policy](https://about.pinterest.com/it/privacy-policy) | [Instagram cookies policy](https://instagram.com/legal/cookies/) | [Instagram privacy policy](https://instagram.com/about/legal/privacy/)
 
-##### Strumenti di Condivisione Sociale
+#### Strumenti di Condivisione Sociale
 Gli strumenti di Condivisione Sociale permettono di inserire all'interno del proprio sito dei pulsanti o delle barre che consentono l'immediata condivisione sui social network da parte degli Utenti. Gli strumenti di Condivision Sociale solitamente rilevano dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti. Tali servizi, anche nei casi in cui non vengano utilizzati dall'Utente, potrebbero raccogliere dati di navigazione relative alle pagine in cui sono presenti. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di strumenti di Condivisione Social viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
-######**AddToAny**
+#####**AddToAny**
 *AddToAny* è un sistema rilasciato da [https://www.addtoany.com/](https://www.addtoany.com/) che permette la facile condivisione dei contenuti di questo sito attraverso e-mail e i principali siti web di social network.
 
 Finalità: **Condivisione sui Social Network**
@@ -173,10 +173,10 @@ Il servizio *AddToAny* attraverso l'uso dei propri cookie colleziona dati sulla 
 
 **Link di riferimento**: [Privacy Policy](https://www.addtoany.com/privacy)
 
-##### Embed di contenuti di terze parti
+#### Embed di contenuti di terze parti
 L'embed di contenuti di terze parti consente di mostrare sul proprio sito file multimediale ospitati su servizi di terze parti e di utilizzare le stesse funzionalità consentite dal servizio terze parti. L'embed di contenuti di terze parti solitamente rileva dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti. Tali servizi, anche nei casi in cui non vengano utilizzati dall'Utente, potrebbero raccogliere dati di navigazione relative alle pagine in cui sono presenti. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di servizi di terze parti viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio.
 
-######** Google Map**
+#####** Google Map**
 
 Questo sito utilizza porzioni di codice proveniente dal sito https://maps.google.com/ al fine di mostrare alcuni mappe nelle proprie pagine. 
 
@@ -190,7 +190,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Term Maps](https://www.google.com/intl/it_IT/help/terms_maps.html) | [Cookies](https://www.google.it/intl/it/policies/technologies/cookies/) | [Managing](https://www.google.it/intl/it/policies/technologies/managing/)
 
-######** Youtube Video**
+#####** Youtube Video**
 
 Questo sito utilizza porzioni di codice proveniente dal sito [https://www.youtube.com/](https://www.youtube.com/) al fine di mostrare alcuni contenuti video nelle proprie pagine. 
 
@@ -204,7 +204,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Cookies]( https://www.google.it/intl/it/policies/technologies/cookies/) | [Managing](https://www.google.it/intl/it/policies/technologies/managing/)
 
-######** Vimeo Video**
+#####** Vimeo Video**
 
 Questo sito utilizza porzioni di codice proveniente dal sito https://vimeo.com/ al fine di mostrare alcuni contenuti video nelle proprie pagine. 
 
@@ -218,21 +218,21 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Cookie Policy](https://vimeo.com/cookie_policy) | [Cookie List](https://vimeo.com/cookie_list)
 
-### Cookie di profilazione
+### 3.3 Cookie di profilazione
 
 Sono quei cookie necessari a creare profili utenti al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dall’utente all’interno delle pagine del Sito.  
  **[[URL SITO]]** **non utilizza in alcun modo cookie di profilazione diretta**.
  
  **[[URL SITO]]** **utilizza esclusivamente cookie di profilazione indiretta (di terze parti)**.
 
-#### Cookie di profilazione di terze parti
+#### 3.3.1 Cookie di profilazione di terze parti
 
 In particolare, i cookie di profilazione di terze parti utilizzati da **[[URL SITO]]** sono: 
 
-##### Strumenti Pubblicitari
+#### Strumenti Pubblicitari
 Gli Strumenti Pubblicitari permettono di mostrare nel sito web nel quale sono utilizzati annunci pubblicitari sulla base dell'utilizzo del sito web da parte dell'Utente. Per rendere possibile il display di annunci in linea con le preferenze dell'utente spesso vengono utilizzati cookie e dati di navigazione, che potrebbero essere trasmesse al proprio network collegato all'attività di remarketing e online advertising. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di strumenti pubblicitari viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio.
 
-######** Tradedoubler**
+#####** Tradedoubler**
 *Tradedoubler* è un sistema di advertising online online rilasciato da  [http://www.tradedoubler.com/](http://www.tradedoubler.com/) che consente agli editori affiliati di pubblicare annunci sul proprio sito web. 
 
 Finalità: **Retargeting & Online Advertising**
@@ -245,7 +245,7 @@ Il sistema di *Tradedoubler* di advertising e di retargeting è basato sull'util
 
 **Link di riferimento**: [Privacy Policy](http://www.tradedoubler.com/uk-en/privacy-policy/)
 
-######** Adform**
+#####** Adform**
 *Adform* è una società specializzata in display advertising [http://site.adform.com/](http://site.adform.com/) che permette una personalizzazione delle offerte in tempo reale attraverso l’integrazione delle stesse nei siti degli editori affiliati. 
 
 Finalità: **Retargeting & Online Advertising**
@@ -258,7 +258,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Privacy Policy](http://site.adform.com/privacy-policy/en/)
 
-######**Zanox**
+#####**Zanox**
 *Zanox* è un sistema di advertising online rilasciato da [http://www.zanox.com/](http://www.zanox.com/) che consente, tramite un programma di affiliazione, di pubblicare offerte e prodotti all'interno del sito degi editoriali affiliati. 
 
 Finalità: **Retargeting & Online Advertising**
