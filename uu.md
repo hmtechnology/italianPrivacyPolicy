@@ -70,7 +70,7 @@ Il servizio *ShinyStat* utilizza cookie di tipo analytics assimilati ai cookie t
 **Link di riferimento**: [Cookie Policy](http://www.shinystat.com/it/informativa_cookie_sito.html) | [Opt-Out](http://www.shinystat.com/it/opt-out_free.html) | [Anonimizzazione IP ShinyStat](http://www.shinystat.com/it/anonimizzazione.html)
 
 ######**Google Analytics (anonimizzato)**
-*Google Analytics* è uno strumento analitico, [google.it/analytics/](www.google.it/intl/it/analytics/), che aiuta i proprietari di siti web a misurare le statistiche del sito web. 
+*Google Analytics* è uno strumento analitico, [google.it/analytics](www.google.it/intl/it/analytics/), che aiuta i proprietari di siti web a misurare le statistiche del sito web. 
 
 Finalità: **Statistica**
 
@@ -79,8 +79,7 @@ Dati Personali: **Dati di Navigazione e Cookie**
 *Google Analytics* utilizza principalmente cookie per generare i rapporti sulle interazioni dei visitatori con i siti web. Questi cookie vengono utilizzati per memorizzare informazioni che non consentono l'identificazione personale degli utenti. Inoltre, utilizzando il metodo di [mascheratura dell'indirizzo IP](https://support.google.com/analytics/answer/2905384?hl=it), le informazioni memorizzate nel cookie vengono ridotte a un numero identificativo casuale. Gli utenti dei siti web che non vogliono che i dati relativi alla loro visita vengano monitorati possono installare il [componente aggiuntivo del browser per la disattivazione di Google Analytics](https://tools.google.com/dlpage/gaoptout). 
 
 **[URL SITO]]** non utilizza il servizio *Google Analytics* per la profilazione dell'utente in prima parte e non ha accordi con *Google Analytics* per profilare in prima parte.
-###### Link di riferimento
-* [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+**Link di riferimento**: [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
 #### Cookie per integrare prodotti e funzioni di terze parti
 
@@ -99,8 +98,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **[[URL SITO]]** non utilizza il servizio *Facebook Connect* per la profilazione dell'utente in prima parte e non ha accordi con *Facebook Connect* per profilare in prima parte.
 
-###### Link di riferimento
-* [Cookie](https://www.facebook.com/help/cookies/)
+**Link di riferimento**: [Cookie](https://www.facebook.com/help/cookies/)
 
 ###### **Facebook Social Plugins**
 
@@ -114,8 +112,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **[[URL SITO]]** non utilizza il servizio *Facebook Social Plugins* per la profilazione dell'utente in prima parte e non ha accordi con *Facebook Social Plugins* per profilare in prima parte.
 
-###### Link di riferimento
-* [Cookie](https://www.facebook.com/help/cookies/)
+**Link di riferimento**: [Cookie](https://www.facebook.com/help/cookies/)
 
 ######**Google+ Platform**
 
@@ -129,8 +126,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **[[URL SITO]]** non utilizza il servizio *Google+ Platform* per la profilazione dell'utente in prima parte e non ha accordi con *Google+ Platform* per profilare in prima parte.
 
-###### Link di riferimento
-* [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
+**Link di riferimento**: [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
 
 ######** Twitter Button**
 *Twitter Button* è una suite di widget rilasciata da [http://www.twitter.com](http://www.twitter.com) che integra contenuti e pulsanti da Twitter sul sito per incoraggiare la condivisione tra gli utenti.  
@@ -143,8 +139,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **[[URL SITO]]** non utilizza il servizio *Twitter Button* per la profilazione dell'utente in prima parte e non ha accordi con *Twitter Button* per profilare in prima parte.
 
-###### Link di riferimento
-* [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
+**Link di riferimento**: [Cookie](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies)
 
 ######** Social Networks**
 
@@ -158,11 +153,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **[[URL SITO]]** non usa questi cookie per profilare in prima persona, né ha accordi con i gestori di questi social network per la profilazione in prima persona.
 
-###### Link di riferimento
-* [Vine privacy policy](https://vine.co/privacy)
-* [Pinterest privacy policy](https://about.pinterest.com/it/privacy-policy)
-* [Instagram cookies policy](https://instagram.com/legal/cookies/) 
-* [Instagram privacy policy](https://instagram.com/about/legal/privacy/)
+**Link di riferimento**: [Vine privacy policy](https://vine.co/privacy) | [Pinterest privacy policy](https://about.pinterest.com/it/privacy-policy) | [Instagram cookies policy](https://instagram.com/legal/cookies/) | [Instagram privacy policy](https://instagram.com/about/legal/privacy/)
 
 ##### Strumenti di Condivisione Sociale
 Gli strumenti di Condivisione Sociale permettono di inserire all'interno del proprio sito dei pulsanti o delle barre che consentono l'immediata condivisione sui social network da parte degli Utenti. Gli strumenti di Condivision Sociale solitamente rilevano dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti. Tali servizi, anche nei casi in cui non vengano utilizzati dall'Utente, potrebbero raccogliere dati di navigazione relative alle pagine in cui sono presenti. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di strumenti di Condivisione Social viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
@@ -179,8 +170,7 @@ Il servizio *AddToAny* attraverso l'uso dei propri cookie colleziona dati sulla 
 
 **[[URL SITO]]** non utilizza il servizio *AddToAny* per la profilazione dell'utente in prima parte e non ha accordi con *AddToAny* per profilare in prima parte.
 
-###### Link di riferimento
-* [Privacy Policy](https://www.addtoany.com/privacy)
+**Link di riferimento**: [Privacy Policy](https://www.addtoany.com/privacy)
 
 ##### Embed di contenuti di terze parti
 L'embed di contenuti di terze parti consente di mostrare sul proprio sito file multimediale ospitati su servizi di terze parti e di utilizzare le stesse funzionalità consentite dal servizio terze parti. L'embed di contenuti di terze parti solitamente rileva dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti. Tali servizi, anche nei casi in cui non vengano utilizzati dall'Utente, potrebbero raccogliere dati di navigazione relative alle pagine in cui sono presenti. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di servizi di terze parti viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio.
@@ -196,10 +186,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **[[URL SITO]]** non utilizza il servizio *Google Map* per la profilazione dell'utente in prima parte e non ha accordi con *Google Map* per profilare in prima parte.
 
-###### Link di riferimento
-* [Term Maps](https://www.google.com/intl/it_IT/help/terms_maps.html)
-* [Cookies](https://www.google.it/intl/it/policies/technologies/cookies/)
-* [Managing](https://www.google.it/intl/it/policies/technologies/managing/)
+**Link di riferimento**: [Term Maps](https://www.google.com/intl/it_IT/help/terms_maps.html) | [Cookies](https://www.google.it/intl/it/policies/technologies/cookies/) | [Managing](https://www.google.it/intl/it/policies/technologies/managing/)
 
 ######** Youtube Video**
 
@@ -212,9 +199,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 *YouTube Video* installa alcuni cookie tecnici utilizzati solo per il funzionamento del servizio e alcuni cookie di profilazione in grado di tenere traccia del comportamento dell'utente. Tali cookie possono rimanere installati nel browser dell'utente per periodi superiori alla singola sessione.
 
 **[[URL SITO]]** non utilizza il servizio *Youtube Video* per la profilazione dell'utente in prima parte e non ha accordi con *Youtube Video* per profilare in prima parte.
-###### Link di riferimento
-* [Cookies]( https://www.google.it/intl/it/policies/technologies/cookies/)
-* [Managing](https://www.google.it/intl/it/policies/technologies/managing/)
+**Link di riferimento**: [Cookies]( https://www.google.it/intl/it/policies/technologies/cookies/) | [Managing](https://www.google.it/intl/it/policies/technologies/managing/)
 
 ######** Vimeo Video**
 
@@ -257,8 +242,7 @@ Il sistema di *Tradedoubler* di advertising e di retargeting è basato sull'util
 
 **[URL SITO]]** non utilizza il servizio *Tradedoubler* per la profilazione dell'utente in prima parte e non ha accordi con *Tradedoubler* per profilare in prima parte.
 
-###### Link di riferimento
-* [Privacy Policy](http://www.tradedoubler.com/uk-en/privacy-policy/)
+**Link di riferimento**: [Privacy Policy](http://www.tradedoubler.com/uk-en/privacy-policy/)
 
 ######** Adform**
 *Adform* è una società specializzata in display advertising [http://site.adform.com/](http://site.adform.com/) che permette una personalizzazione delle offerte in tempo reale attraverso l’integrazione delle stesse nei siti degli editori affiliati. 
@@ -271,8 +255,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **[URL SITO]]** non utilizza il servizio *Adform* per la profilazione dell'utente in prima parte e non ha accordi con *Adform* per profilare in prima parte.
 
-###### Link di riferimento
-* [Privacy Policy](http://site.adform.com/privacy-policy/en/)
+**Link di riferimento**: [Privacy Policy](http://site.adform.com/privacy-policy/en/)
 
 ######**Zanox**
 *Zanox* è un sistema di advertising online rilasciato da [http://www.zanox.com/](http://www.zanox.com/) che consente, tramite un programma di affiliazione, di pubblicare offerte e prodotti all'interno del sito degi editoriali affiliati. 
@@ -284,8 +267,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **[URL SITO]]** non utilizza il servizio *Zanox* per la profilazione dell'utente in prima parte e non ha accordi con *Zanox* per profilare in prima parte.
 
-###### Link di riferimento
-* [Privacy Policy](http://www.zanox.com/it/riguardo-a-zanox/privacy_policy/)
+**Link di riferimento**: [Privacy Policy](http://www.zanox.com/it/riguardo-a-zanox/privacy_policy/)
 
 * * *
 ## SEZIONE IV - USO DEI COOKIE E CONSENSO
