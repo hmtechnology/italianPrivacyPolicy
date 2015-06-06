@@ -11,9 +11,9 @@ Ai sensi degli obblighi previsti
 - dell'Art. 13 del **Decreto Legislativo 30 giugno 2003, numero 196 ("Codice della Privacy")**, recante Codice in materia di protezione dei dati personali. 
 - dal **provvedimento generale (doc. web n. 3118884)** del Garante per la protezione dei dati personali, registro dei provvedimenti n. 229 dell'8 maggio 2014, pubblicato sulla Gazzetta Ufficiale n. 126 del 3 giugno 2014, in materia di Cookie, recante "Individuazione delle modalità semplificate per l'informativa e l'acquisizione del consenso per l'uso dei cookie"
 
-il **[[TITOLARE TRATTAMENTO]]**, Titolare del trattamento dati, fornisce agli utenti del sito **[[URL SITO]]** un'informativa dettagliata riguardo l'utilizzo, la tutela e il trattamento dei dati personali raccolti attraverso questo sito web, i moduli di contatto e/o altri servizi presenti su **[[NOME SITO]]
+il **[[TITOLARE TRATTAMENTO]]**, Titolare del trattamento dati, fornisce agli utenti del sito **[[URL SITO]]** un'informativa dettagliata riguardo l'utilizzo, la tutela e il trattamento dei dati personali raccolti attraverso questo sito web, i moduli di contatto e/o altri servizi presenti su **[[NOME SITO]]**
 
-[[NOME SITO]]** garantisce la tutela dei diritti e delle libertà fondamentali delle persone fisiche e particolarmente del diritto alla vita privata, con riguardo al trattamento dei dati personali. 
+**[[NOME SITO]]** garantisce la tutela dei diritti e delle libertà fondamentali delle persone fisiche e particolarmente del diritto alla vita privata, con riguardo al trattamento dei dati personali. 
 
 L'informativa è resa solo per il sito **[[NOME SITO]]** e non per gli altri siti eventualmente consultati dall'utente tramite link. 
 * * *
@@ -44,7 +44,7 @@ Il trattamento dei dati personali viene effettuato esclusivamente per adempiere 
 
 In generale il trattamento dei dati avviene per consentire al Titolare di erogare i servizi richiesti dall'interessato, ed in particolare per le finalità di: **Connessioni coi Social Media**, **Visualizzazione Contenuti di Terze Parti**, **Condivisione sui Social Network**, **Statistica**, **Retargeting & Online Advertising**, **Pubblicazione Flusso RSS**, **Abilitazione ai pagamenti online**, **Invio di Newsletter e DEM (Direct Email Marketing)** attraverso i seguenti servizi:
 
-[[ELENCO SERVIZI UTILIZZATI]]
+**[[ELENCO SERVIZI UTILIZZATI]]**
 
 In assenza di un motivo legittimo, **[[TITOLARE TRATTAMENTO]]** non è tenuto ad utilizzare i dati personali dell'interessato. **[[TITOLARE TRATTAMENTO]]** incoraggia la consultazione in modalità anonima dei siti web senza richieste di identificazione degli utenti per cognome, nome, indirizzo di posta elettronica o altri dati identificativi quando non necessario e fornisce la documentazione necessaria per consultare i siti in "incognito".
 Navigazione anonima con Chrome
@@ -53,20 +53,20 @@ Navigazione anonima con Opera
 * * *
 ## SEZIONE IV – TIPOLOGIA DEI DATI RACCOLTI
 I dati personali raccolti e trattati attraverso questo sito web, i moduli di contatto e/o gli altri servizi presenti nel sito **[[NOME SITO]]** sono i seguenti: 
-- **Dati forniti volontariamente dall'utente**: Nome, Cognome, Email, Numero di Telefono, etc **[[DATI RACCOLTI CON FORM]]. La trasmissione dei dati sopra indicati avviene in modo facoltativo, esplicito e volontario e richiede l'acquisizione dei dati del mittente per rendere possibile rispondere alle richieste dell'interessato. 
+- **Dati forniti volontariamente dall'utente**: Nome, Cognome, Email, Numero di Telefono, etc **[[DATI RACCOLTI CON FORM]]**. La trasmissione dei dati sopra indicati avviene in modo facoltativo, esplicito e volontario e richiede l'acquisizione dei dati del mittente per rendere possibile rispondere alle richieste dell'interessato. 
 
 - **Dati di navigazione**: Indirizzo IP, Sistema Operativo, tipologia di Browser, tempo di permanenza sulle pagine e altri dati la cui trasmissione avviene in maniera automatica nell'uso dei protocolli di comunicazione di Internet.
 
 - **Cookie**: piccoli file memorizzati nel computer da siti web durante la navigazione, utile a salvare le preferenze e a migliorare le prestazioni dei siti web.
 
-[[TITOLARE TRATTAMENTO]]** utilizza cookie per rendere il proprio sito più efficiente ed agevole, anche attraverso l'utilizzo di statistiche in forma aggregata; si tratta in ogni caso di informazioni che non consentono di identificare personalmente gli interessati. Un'informativa completa sull'utilizzo dei cookie all'interno del sito può essere trovato al seguente link: **[[COOKIE POLICY]]
+**[[TITOLARE TRATTAMENTO]]** utilizza cookie per rendere il proprio sito più efficiente ed agevole, anche attraverso l'utilizzo di statistiche in forma aggregata; si tratta in ogni caso di informazioni che non consentono di identificare personalmente gli interessati. Un'informativa completa sull'utilizzo dei cookie all'interno del sito può essere trovato al seguente link: **[[COOKIE POLICY]]**
 
-[[TITOLARE TRATTAMENTO]]** non effettua il trattamento dati definiti dal Decreto Legislativo 30 giugno 2003 n° 196 come «sensibili».
+**[[TITOLARE TRATTAMENTO]]** non effettua il trattamento dati definiti dal Decreto Legislativo 30 giugno 2003 n° 196 come «sensibili».
 * * *
 ## SEZIONE V – MODALITA' DEL TRATTAMENTO DATI
 I dati personali in possesso del **[[TITOLARE TRATTAMENTO]]** sono raccolti direttamente presso l'interessato. Tutti i dati raccolti sono trattati con riservatezza e nel rispetto della normativa vigente.
 
-[[NOME SITO]]** si impegna a garantire che i dati personali verranno:
+**[[NOME SITO]]** si impegna a garantire che i dati personali verranno:
 - a) trattati lealmente e lecitamente mediante strumenti manuali e informatici in modo da garantire la sicurezza e la riservatezza dei dati stessi
 - b) raccolti soltanto quando la persona interessata ha manifestato il proprio consenso in maniera inequivocabile dopo essere stato informato in modo chiaro e completo, in particolar modo sugli scopi del trattamento. 
 - c) trattati esclusivamente per il conseguimento delle finalità prefissate, escludendo il trattamento tutte le volte in cui sia possibile perseguire dette finalità attraverso l'utilizzo di dati anonimi o di modalità tali da consentire l'identificazione solo nel momento di necessità.  
@@ -85,9 +85,9 @@ La lettura della presente informativa e il consenso al trattamento dei dati sono
 Nel caso si voglia usufruire dell'erogazione dei servizi è quindi necessario fornire il consenso al trattamento dei dati; esistono delle informazioni obbligatorie, marcate da apposito asterisco o da scritta "campo richiesto" o "campo obbligatori" e informazioni facoltative, indicate con apposita scritta "campo facoltativo" accanto all'informazione non obbligatoria. Nel caso l'interessato non fornisca le informazioni facoltative, nessun svantaggio gli è arrecato durante l'erogazione dei servizi.
 * * *
 ## SEZIONE VII – I DESTINATARI DEI DATI
-I dati raccolti sono conservati in forma digitale negli archivi di **[[TITOLARE TRATTAMENTO]], titolare del trattamento dati e sono utilizzati esclusivamente per la fornitura del servizio richiesto a meno che non siano espressamente specificate altre condizioni, a cui l'interessato vi abbia dato preventivamente consenso.
+I dati raccolti sono conservati in forma digitale negli archivi di **[[TITOLARE TRATTAMENTO]]**, titolare del trattamento dati e sono utilizzati esclusivamente per la fornitura del servizio richiesto a meno che non siano espressamente specificate altre condizioni, a cui l'interessato vi abbia dato preventivamente consenso.
 
-In alcune situazioni, è infatti possibile che i dati personali possano essere utilizzati per finalità diverse dalla fornitura del servizio richiesto, quali l'utilizzo per la commercializzazione diretta o la trasmissione a partner commerciali o ad aziende-figlie nell'ambito dell'attività del **[[TITOLARE TRATTAMENTO]]; in questi casi è fondamentale conoscere che l'interessato dispone di un'effettiva possibilità di opporsi a qualsiasi comunicazione con finalità diverse dalla fornitura del servizio e che la stessa possa essere esercitata cliccando su una casella di spunta per confermare o negare il proprio favore a detta comunicazione. L'invio di posta elettronica a scopo promozionale deve altresì prevedere la possibilità di esercitare il recesso on-line dall'elenco di indirizzi impiegato. Il diritto di opporsi a tale trattamento può essere esercitato in qualunque momento on-line attraverso richiesta richiesta rivolta al titolare mediante lettera raccomandata all'indirizzo **[[INDIRIZZO TITOLARE]]** o posta elettronica all'indirizzo **[[EMAIL TITOLARE]]. 
+In alcune situazioni, è infatti possibile che i dati personali possano essere utilizzati per finalità diverse dalla fornitura del servizio richiesto, quali l'utilizzo per la commercializzazione diretta o la trasmissione a partner commerciali o ad aziende-figlie nell'ambito dell'attività del **[[TITOLARE TRATTAMENTO]]**; in questi casi è fondamentale conoscere che l'interessato dispone di un'effettiva possibilità di opporsi a qualsiasi comunicazione con finalità diverse dalla fornitura del servizio e che la stessa possa essere esercitata cliccando su una casella di spunta per confermare o negare il proprio favore a detta comunicazione. L'invio di posta elettronica a scopo promozionale deve altresì prevedere la possibilità di esercitare il recesso on-line dall'elenco di indirizzi impiegato. Il diritto di opporsi a tale trattamento può essere esercitato in qualunque momento on-line attraverso richiesta richiesta rivolta al titolare mediante lettera raccomandata all'indirizzo **[[INDIRIZZO TITOLARE]]** o posta elettronica all'indirizzo **[[EMAIL TITOLARE]]**. 
 
 E' possibile anche che i dati, previo consenso specifico, possano essere utilizzati per l'invio e la spedizione di newsletter. Il Titolare del trattamento dati garantisce la possibilità di un recesso da tali spedizioni in qualsiasi momento e informerà gli interessati riguardo questa possibilità ogniqualvolta viene spedita una newsletter.
 i dati raccolti non saranno trasmessi, comunicati o resi disponibili a terzi per nessun motivo, ad eccezione delle autorità pubbliche in caso di disposizioni di legge prioritarie. 
@@ -108,8 +108,8 @@ c) l'attestazione che le operazioni di cui alle lettere a) e b) sono state porta
 4. L'interessato ha diritto di opporsi, in tutto o in parte:
 a) per motivi legittimi al trattamento dei dati personali che lo riguardano, ancorche' pertinenti allo scopo della raccolta;
 b) al trattamento di dati personali che lo riguardano a fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale.
-[[NOME SITO]]** garantisce a qualsiasi persona interessata i diritti sopra indicati; L'esercizio dei diritti può essere effettuato attraverso richiesta richiesta rivolta al titolare mediante lettera raccomandata all'indirizzo
-[[INDIRIZZO TITOLARE]]** o posta elettronica all'indirizzo **[[EMAIL TITOLARE]]
+**[[NOME SITO]]** garantisce a qualsiasi persona interessata i diritti sopra indicati; L'esercizio dei diritti può essere effettuato attraverso richiesta richiesta rivolta al titolare mediante lettera raccomandata all'indirizzo
+**[[INDIRIZZO TITOLARE]]** o posta elettronica all'indirizzo **[[EMAIL TITOLARE]]**
 Quando riguarda l'esercizio dei diritti di cui all'articolo 7, commi 1 e 2, la richiesta puo' essere formulata anche oralmente. 
 
 L'informativa è resa solo per il sito **[[NOME SITO]]** e non per gli altri siti eventualmente consultati dall'utente tramite link.
