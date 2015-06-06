@@ -79,6 +79,7 @@ Dati Personali: **Dati di Navigazione e Cookie**
 *Google Analytics* utilizza principalmente cookie per generare i rapporti sulle interazioni dei visitatori con i siti web. Questi cookie vengono utilizzati per memorizzare informazioni che non consentono l'identificazione personale degli utenti. Inoltre, utilizzando il metodo di [mascheratura dell'indirizzo IP](https://support.google.com/analytics/answer/2905384?hl=it), le informazioni memorizzate nel cookie vengono ridotte a un numero identificativo casuale. Gli utenti dei siti web che non vogliono che i dati relativi alla loro visita vengano monitorati possono installare il [componente aggiuntivo del browser per la disattivazione di Google Analytics](https://tools.google.com/dlpage/gaoptout). 
 
 **[URL SITO]]** non utilizza il servizio *Google Analytics* per la profilazione dell'utente in prima parte e non ha accordi con *Google Analytics* per profilare in prima parte.
+
 **Link di riferimento**: [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
 #### Cookie per integrare prodotti e funzioni di terze parti
@@ -180,6 +181,7 @@ L'embed di contenuti di terze parti consente di mostrare sul proprio sito file m
 Questo sito utilizza porzioni di codice proveniente dal sito https://maps.google.com/ al fine di mostrare alcuni mappe nelle proprie pagine. 
 
 Finalità: **Visualizzazione Contenuti da Terze Parti**
+
 Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
 
 *Google Map* installa alcuni cookie tecnici utilizzati solo per il funzionamento del servizio e alcuni cookie di profilazione in grado di tenere traccia del comportamento dell'utente. Tali cookie possono rimanere installati nel browser dell'utente per periodi superiori alla singola sessione. 
@@ -199,6 +201,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 *YouTube Video* installa alcuni cookie tecnici utilizzati solo per il funzionamento del servizio e alcuni cookie di profilazione in grado di tenere traccia del comportamento dell'utente. Tali cookie possono rimanere installati nel browser dell'utente per periodi superiori alla singola sessione.
 
 **[[URL SITO]]** non utilizza il servizio *Youtube Video* per la profilazione dell'utente in prima parte e non ha accordi con *Youtube Video* per profilare in prima parte.
+
 **Link di riferimento**: [Cookies]( https://www.google.it/intl/it/policies/technologies/cookies/) | [Managing](https://www.google.it/intl/it/policies/technologies/managing/)
 
 ######** Vimeo Video**
@@ -213,9 +216,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **[[URL SITO]]** non utilizza il servizio *Vimeo Video* per la profilazione dell'utente in prima parte e non ha accordi con *Vimeo Video* per profilare in prima parte.
 
-##### Link di riferimento
-* [Cookie Policy](https://vimeo.com/cookie_policy)
-* [Cookie List](https://vimeo.com/cookie_list)
+**Link di riferimento**: [Cookie Policy](https://vimeo.com/cookie_policy) | [Cookie List](https://vimeo.com/cookie_list)
 
 ### Cookie di profilazione
 
@@ -261,6 +262,7 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 *Zanox* è un sistema di advertising online rilasciato da [http://www.zanox.com/](http://www.zanox.com/) che consente, tramite un programma di affiliazione, di pubblicare offerte e prodotti all'interno del sito degi editoriali affiliati. 
 
 Finalità: **Retargeting & Online Advertising**
+
 Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
 
 *Zanox* utilizza cookie al fine di registrare le transazioni commerciali (lead e vendite); i cookie contengono solo una sequenza individuale di cifre che non possono essere assegnati a un particolare utente.
