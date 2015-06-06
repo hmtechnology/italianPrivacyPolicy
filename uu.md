@@ -218,6 +218,60 @@ Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente 
 
 **Link di riferimento**: [Cookie Policy](https://vimeo.com/cookie_policy) | [Cookie List](https://vimeo.com/cookie_list)
 
+#### Servizi su Piattaforme Esterne
+I servizi su Piattaforme Esterne sono strumenti esterni al sito web che trasferiscono l'Utente sulle piattaforme preposte per assolvere a precise finalità, quali ad esempio, la pubblicazione di Feed RSS, l'abilitazione di pagamenti online o l'invio di newsletter e DEM a indirizzi di liste email. Essendo servizi esterni al sito web, non è installato alcun cookie all'interno di questo sito; tuttavia, trattandosi di servizi che, sulle loro piattaforme, possono far uso di cookie ne viene data comunicazione in questa informativa estesa.
+
+#### Feed RSS
+I feed RSS sono flussi di dati espressi solitamente in formato XML che consentono di visualizzare in modo rapido una serie di contenuti aggiornati di frequente sul proprio computer o mobile. I Feed RSS solitamente rilevano dati di navigazione e utilizzano cookie che potrebbero tracciare le preferenze dell'utente in relazione ai contenuti e mostrare contenuti pubblicitari in relazione ad esse. Per l'installazione di questi cookie non è richiesto il consenso preventivo da parte dell'utente poichè la trasmissione di informazione eventualmente corredati da annunci pubblicitari avviene direttamente su altre piattaforme esterne senza essere integrate all'interno del sito. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
+
+##### **FeedBurner**
+
+*FeedBurner* è una piattaforma rilasciata da [http://www.google.com](http://www.google.com) che consente la distribuzione di feed RSS.
+
+Finalità: **Pubblicazione Flusso RSS**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*FeedBurner* potrebbe utilizzare cookie per mostrare inserzioni più pertinenti in relazione alle preferenze dell'utente.
+
+[[NOME SITO]] non utilizza il servizio *FeedBurner* per la profilazione dell'utente in prima parte e non ha accordi con *FeedBurner* per profilare in prima parte.
+
+**Link di riferimento**: [Privacy](https://www.google.com/policies/privacy/)
+
+#### Feed RSS
+I Sistemi di Pagamento consentono agli Utenti di effettuare pagamenti online attraverso carta di credito, bonifico bancario o altri strumenti di pagamento. I dati utilizzati dall'utente per il pagamento vengono trattati direttamente ed esclusivamente dal titolare o dal responsabile del servizio di pagamento richiesto. Tali servizi potrebbero inviare email di conferma o email contenenti fattura nel caso l'utente utilizzi il servizio. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
+
+##### **Paypal**
+
+*Paypal* è il sistema rilasciato da [http://www.paypal.com](http://www.paypal.com) che consente agli utenti di effettuare pagamenti digitali e di trasferimento di denaro tramite Internet.
+
+Finalità: **Abilitazione Pagamenti Online**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Paypal* può servirsi di cookie, web beacon e altre tecnologie simili per archiviare dati che possano aiutare a offrire un'esperienza d'uso migliore, più rapida e più sicura per l'utente.
+
+[[NOME SITO]] non utilizza il servizio *Paypal* per la profilazione dell'utente in prima parte e non ha accordi con *Paypal* per profilare in prima parte.
+
+**Link di riferimento**: [Privacy](https://www.paypal.com/it/webapps/mpp/ua/privacy-full)
+
+#### Sistemi di Invio Email
+I sistemi di Invio Email (Newsletter e DEM) consentono di inviare email relative alle ultime novità, aggiornamenti o approfondimenti su argomenti scelti dall'utente e anche di inviare email con contenuti commerciali e messaggi pubblicitari una tantum. I sistemi di Invio Email solitamente rilevano dati di navigazione e utilizzano cookie che potrebbero tracciare informazioni statistiche sull'utente per valutare la reale efficacia delle campagne email svolte. Per l'installazione di questi cookie è richiesto il consenso preventivo da parte dell'utente tramite informativa breve, supportata da adeguata informativa estesa. Nessun cookie di sistemi di Invio Email viene installato nel dispositivo dell'Utente senza il suo consenso. I dati personali acquisiti e trattati da questo servizio sono soggette alla privacy policy di ogni relativo servizio. 
+
+##### **Mailchimp**
+
+*Mailchimp* è una piattaforma di email marketing, [mailchimp.com](http://www.mailchimp.com], specializzata nella distribuzione di Newsletter e Dem.
+
+Finalità: **Invio di Newsletter e DEM**
+
+Dati Personali: **Dati di Navigazione, Dati volontariamente forniti dall'Utente e Cookie**
+
+*Mailchimp* utilizza cookie per raccogliere informazioni quando l'utente utilizza il servizio, vengono utilizzati anche web beacons per monitorare la percentuale di apertura delle email e di click sui link. NB: l'integrazione all'interno di [[URL SITO]] dei moduli di contatto di iscrizione di Mailchimp (embedded signup form) può comportare l'utilizzo da parte di Mailchimp di cookie per garantire l'efficienza del servizio.
+
+[[NOME SITO]] non utilizza il servizio *Mailchimp* per la profilazione dell'utente in prima parte e non ha accordi con *Mailchimp* per profilare in prima parte.
+
+**Link di riferimento**: [Privacy](http://mailchimp.com/legal/privacy/)
+
 ### 3.3 Cookie di profilazione
 
 Sono quei cookie necessari a creare profili utenti al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dall’utente all’interno delle pagine del Sito.  
